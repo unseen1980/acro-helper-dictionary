@@ -1,0 +1,1808 @@
+[
+  {
+    "AWS": {
+      "definition": "Amazon Web Services",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "S3": {
+      "definition": "Simple Storage System",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "GCP": {
+      "definition": "Google Cloud Platform",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "GCLB": {
+      "definition": "Google Cloud Load Balancer",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "Amazon ES": {
+      "definition": "Amazon Elasticsearch Service",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "AMI": {
+      "definition": "Amazon Machine Image",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "ARN": {
+      "definition": "Amazon Resource Name",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "EC2": {
+      "definition": "Elastic Compute Cloud",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "ECS": {
+      "definition": "EC2 Container Service",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "EFS": {
+      "definition": "Elastic File System",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "EMR": {
+      "definition": "Elastic Map Reduce",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "IaaS": {
+      "definition": "Infrastructure-as-a-Service",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "SWS": {
+      "definition": "Simple Workflow Service",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "SNS": {
+      "definition": "Simple Notification Service",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "GCS": {
+      "definition": "Google Cloud Storage",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "VPC": {
+      "definition": "Virtual Private Cloud",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "Amazon EBS": {
+      "definition": "Amazon Elastic Block Store",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "AZ": {
+      "definition": "Availability Zone",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "ASG": {
+      "definition": "Auto Scaling Group",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "EBS": {
+      "definition": "Elastic Block Store",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "ELB": {
+      "definition": "Elastic Load Balancer",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "EIP": {
+      "definition": "Elastic IP",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "ENI": {
+      "definition": "Elastic Network Interface",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "FaaS": {
+      "definition": "Function as-a-Service",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "HPC": {
+      "definition": "High-Performance Compute",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "HVM": {
+      "definition": "Hardware Virtual Machine",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "S3 IA": {
+      "definition": "S3 Infrequent Access",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "IG": {
+      "definition": "Internet Gateway",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "KMS": {
+      "definition": "Key Management Service",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "Amazon SES": {
+      "definition": "Amazon Simple Email System",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "RRS": {
+      "definition": "Reduced Redundancy Storage",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "SQS": {
+      "definition": "Simple Queue Service",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "TPM": {
+      "definition": "Trusted Platform Module",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "VPG": {
+      "definition": "Virtual Private Gateway",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "VPS": {
+      "definition": "Virtual Private Server",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "HP CSA": {
+      "definition": "HP Cloud Service Automation",
+      "subfield": "Cloud Computing"
+    }
+  },
+  {
+    "SEO": {
+      "definition": "Search Engine Optimization",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "SCM": {
+      "definition": "Search Content Marketing",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "SEM": {
+      "definition": "Search Engine Marketing",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "WP": {
+      "definition": "WordPress",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "PPC": {
+      "definition": "Pay Per Click",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "CPC": {
+      "definition": "Cost Per Click",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "SERP": {
+      "definition": "Search Engine Results Page",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "CTS": {
+      "definition": "Click-Through Rate",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "CR": {
+      "definition": "Conversion Rate",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "CPM": {
+      "definition": "Cost Per Thousand Impressions",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "SVG": {
+      "definition": "Scalable Vector Graphics",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "DMCA": {
+      "definition": "Digital Millennium Copyright Act",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "CMS": {
+      "definition": "Content Management System",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "CRO": {
+      "definition": "Conversion Rate Optimization",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "CTA": {
+      "definition": "Call to Action",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "CTR": {
+      "definition": "Click Through Rate",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "PR": {
+      "definition": "PageRank",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "DA": {
+      "definition": "Domain Authority",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "ROI": {
+      "definition": "Return on Investment",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "UI/UX": {
+      "definition": "User Interface / User Experience",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "SEA": {
+      "definition": "Search Engine Advertising",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "SMO": {
+      "definition": "Social Media Optimization",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "SMM": {
+      "definition": "Social Media Marketing",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "SERM": {
+      "definition": "Search Engine Reputation Management",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "AMA": {
+      "definition": "Ask Me Anything",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "B2B": {
+      "definition": "Business to Business",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "B2C": {
+      "definition": "Business to Consumer",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "CRM": {
+      "definition": "Customer Relationship Management",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "CX": {
+      "definition": "Customer Experience",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "FOMO": {
+      "definition": "Fear of Missing Out",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "GA": {
+      "definition": "Google Analytics",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "IO": {
+      "definition": "Insertion Order",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "SM": {
+      "definition": "Social Media",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "SMP": {
+      "definition": "Social Media Platform",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "ToS": {
+      "definition": "Terms of Service",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "UA": {
+      "definition": "Universal Analytics",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "CPL": {
+      "definition": "Cost Per Lead",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "NPS": {
+      "definition": "Net Promoter Score",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "QDD": {
+      "definition": "Query Deserves Diversity",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "QDF": {
+      "definition": "Query Deserves Freshness",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "SC": {
+      "definition": "Supplementary Content",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "ZMOT": {
+      "definition": "Zero Moment of Truth",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "HITS": {
+      "definition": "Hyperlink-Induced Topic Search",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "LSI": {
+      "definition": "Latent Semantic Indexing",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "PBN": {
+      "definition": "Private Blog Network",
+      "subfield": "Blogging or Search Engine Optimization"
+    }
+  },
+  {
+    "AI": {
+      "definition": "Artificial Intelligence",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "IMS": {
+      "definition": "Intelligent Maintenance Systems",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "ML": {
+      "definition": "Machine Learning",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "NI": {
+      "definition": "Natural Intelligence",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "MI": {
+      "definition": "Machine Intelligence",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "NLP": {
+      "definition": "Natural Language Processing",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "CNN": {
+      "definition": "Convolutional Neural Network",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "RNN": {
+      "definition": "Recurrent Neural Network",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "LSTM": {
+      "definition": "Long Short-term Memory",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "CTC": {
+      "definition": "Connectionist Temporal Classification",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "CV": {
+      "definition": "Computer Vision",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "HMD": {
+      "definition": "Head Mounted Displays",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "RL": {
+      "definition": "Reinforcement Learning",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "NLNN": {
+      "definition": "Non-Learning Neural Networks",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "SR": {
+      "definition": "Speech Recognition",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "M2M": {
+      "definition": "Machine to Machine",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "DSBS": {
+      "definition": "Dual Sensor Brake Support",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "LNN": {
+      "definition": "Learning Neural Networks",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "NLU": {
+      "definition": "Natural Language Understanding",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "RPA": {
+      "definition": "Robotic Process Automation",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "ANN": {
+      "definition": "Artificial Neural Network",
+      "subfield": "Artificial Intelligence"
+    }
+  },
+  {
+    "SQL": {
+      "definition": "Structured Query Language",
+      "subfield": "Database"
+    }
+  },
+  {
+    "DQL": {
+      "definition": "Data Query Language",
+      "subfield": "Database"
+    }
+  },
+  {
+    "DDL": {
+      "definition": "Data Definition Language",
+      "subfield": "Database"
+    }
+  },
+  {
+    "DML": {
+      "definition": "Data Manipulation Language",
+      "subfield": "Database"
+    }
+  },
+  {
+    "RDSMS": {
+      "definition": "Relational Data Stream Management System",
+      "subfield": "Database"
+    }
+  },
+  {
+    "OLAP": {
+      "definition": "Online Analytical Processing",
+      "subfield": "Database"
+    }
+  },
+  {
+    "OLTP": {
+      "definition": "Online Transaction Processing",
+      "subfield": "Database"
+    }
+  },
+  {
+    "DRDA": {
+      "definition": "Distributed Relational Database Architecture",
+      "subfield": "Database"
+    }
+  },
+  {
+    "4D QL": {
+      "definition": "4D Query Language",
+      "subfield": "Database"
+    }
+  },
+  {
+    "DMS": {
+      "definition": "Database Migration Service",
+      "subfield": "Database"
+    }
+  },
+  {
+    "FIFO": {
+      "definition": "First In First Out",
+      "subfield": "Development"
+    }
+  },
+  {
+    "PHP": {
+      "definition": "Hypertext Preprocessor",
+      "subfield": "Development"
+    }
+  },
+  {
+    "HTML": {
+      "definition": "Hypertext Markup Language",
+      "subfield": "Development"
+    }
+  },
+  {
+    "JS": {
+      "definition": "JavaScript",
+      "subfield": "Development"
+    }
+  },
+  {
+    "CSS": {
+      "definition": "Cascading Style Sheets",
+      "subfield": "Development"
+    }
+  },
+  {
+    "SaaS": {
+      "definition": "Software-as-a-Service",
+      "subfield": "Development"
+    }
+  },
+  {
+    "API": {
+      "definition": "Application Programming Interface",
+      "subfield": "Development"
+    }
+  },
+  {
+    "XML": {
+      "definition": "Extensible Markup Language",
+      "subfield": "Development"
+    }
+  },
+  {
+    "SOAP": {
+      "definition": "Simple Object Access Protocol",
+      "subfield": "Development"
+    }
+  },
+  {
+    "XHTML": {
+      "definition": "Extensible Hypertext Markup Language",
+      "subfield": "Development"
+    }
+  },
+  {
+    "JSON": {
+      "definition": "JavaScript Object Notation",
+      "subfield": "Development"
+    }
+  },
+  {
+    "EOF": {
+      "definition": "End Of File",
+      "subfield": "Development"
+    }
+  },
+  {
+    "SDK": {
+      "definition": "Software Development Kit",
+      "subfield": "Development"
+    }
+  },
+  {
+    "ASCII": {
+      "definition": "American Standard Code for Information Interchange",
+      "subfield": "Development"
+    }
+  },
+  {
+    "I/0": {
+      "definition": "Input & Output",
+      "subfield": "Development"
+    }
+  },
+  {
+    "VCS": {
+      "definition": "Version Control Systems",
+      "subfield": "Development"
+    }
+  },
+  {
+    "IDE": {
+      "definition": "Integrated Development Environment",
+      "subfield": "Development"
+    }
+  },
+  {
+    "Java EE": {
+      "definition": "Java Enterprise Edition",
+      "subfield": "Development"
+    }
+  },
+  {
+    "EOL": {
+      "definition": "End Of Life",
+      "subfield": "Development"
+    }
+  },
+  {
+    "XSD": {
+      "definition": "XML Schema Definition",
+      "subfield": "Development"
+    }
+  },
+  {
+    "VBS": {
+      "definition": "Visual Basic Script",
+      "subfield": "Development"
+    }
+  },
+  {
+    "RAD": {
+      "definition": "Rapid Application Development",
+      "subfield": "Development"
+    }
+  },
+  {
+    "JCE": {
+      "definition": "Java Cryptography Extension",
+      "subfield": "Development"
+    }
+  },
+  {
+    "JDK": {
+      "definition": "Java Development Kit",
+      "subfield": "Development"
+    }
+  },
+  {
+    "IPSec": {
+      "definition": "Internet Protocol Security",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "SSE": {
+      "definition": "Server Side Encryption",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "SSL": {
+      "definition": "Secure Socket Layer",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "TLS": {
+      "definition": "Transport Layer Security",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "DOS": {
+      "definition": "Denial of Services",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "DDoS": {
+      "definition": "Distributed Denial Of Services",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "XSS": {
+      "definition": "Cross-site Scripting",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "CSP": {
+      "definition": "Content Security Policy",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "CSRF": {
+      "definition": "Cross-Site Request Forgery",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "SQLi": {
+      "definition": "SQL Injection",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "CBSP": {
+      "definition": "Cloud-based Security Providers",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "ACL": {
+      "definition": "Access Control List",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "AES": {
+      "definition": "Advanced Encryption System",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "CORS": {
+      "definition": "Cross-Origin Resource Sharing",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "IAM": {
+      "definition": "Identity & Access Management",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "MFA": {
+      "definition": "Multi-Factor Authentication",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "WAF": {
+      "definition": "Web Application Firewall",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "OWASP": {
+      "definition": "Open Web Application Security Project",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "MITM": {
+      "definition": "Man in the Middle Attack",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "PCI DSS": {
+      "definition": "Payment Card Industry Data Security Standard",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "SAML": {
+      "definition": "Security Assertion Markup Language",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "STS": {
+      "definition": "Security Token Service",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "FUD": {
+      "definition": "Fully Undetectable",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "RAT": {
+      "definition": "Remote Administration Tool",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "SE": {
+      "definition": "Social Engineering",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "SKid": {
+      "definition": "Script Kiddie",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "DNSSEC": {
+      "definition": "Domain Name System Security Extensions",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "DKIM": {
+      "definition": "Domain Keys Identified Mail",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "DMARC": {
+      "definition": "Domain-based Message Authentication Reporting and Conformance",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "SPF": {
+      "definition": "Sender Policy Framework",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "CVSS": {
+      "definition": "Common Vulnerability Scoring System",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "SAST": {
+      "definition": "Static Application Security Testing",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "DAST": {
+      "definition": "Dynamic Application Security Testing",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "WAP": {
+      "definition": "Web Application Protection",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "RFI": {
+      "definition": "Remote File Inclusion",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "LFI": {
+      "definition": "Local File Inclusion",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "DT": {
+      "definition": "Directory Traversal",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "PT": {
+      "definition": "Path Traversal",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "SCD": {
+      "definition": "Source Code Disclosure",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "OSCI": {
+      "definition": "OS Command Injection",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "CWE": {
+      "definition": "Common Weakness Enumeration",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "DSA": {
+      "definition": "Digital Signature Algorithm",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "DES": {
+      "definition": "Data Encryption Standard",
+      "subfield": "IT Security"
+    }
+  },
+  {
+    "OSS": {
+      "definition": "Open Source Software",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "FOSS": {
+      "definition": "Free and open-source software",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "OS": {
+      "definition": "Operating System",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "HA": {
+      "definition": "High Availability",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "BYOD": {
+      "definition": "Bring Your Own Device",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "PaaS": {
+      "definition": "Platform-as-a-Service",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "DaaS": {
+      "definition": "Desktop-as-a-Service",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "VM": {
+      "definition": "Virtual Machine",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "KVM": {
+      "definition": "Kernel-based Virtual Machine",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "ESX": {
+      "definition": "Elastic Sky X",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "DRS": {
+      "definition": "Distributed Resource Scheduler",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "VSM": {
+      "definition": "Virtual Supervisor Module",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "QEMU": {
+      "definition": "Quick Emulator",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "SSD": {
+      "definition": "Solid-state Drive",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "IOPS": {
+      "definition": "Input/output Operations Per Second",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "ADFS": {
+      "definition": "Active Directory Federation Service",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "CLI": {
+      "definition": "Command Line Interface",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "CI/CD": {
+      "definition": "Continous Integration/Continous Deployment",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "iSCSI": {
+      "definition": "Internet Small Computer Storage Interface",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "SSH": {
+      "definition": "Secure Shell",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "MSTSC": {
+      "definition": "Microsoft Terminal Service Client",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "MPP": {
+      "definition": "Massive Parallel Processing",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "NFS": {
+      "definition": "Network File System",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "RAID": {
+      "definition": "Redundant Array of Independent Disk",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "RAM": {
+      "definition": "Random-access Memory",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "SLA": {
+      "definition": "Service Level Agreement",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "OLA": {
+      "definition": "Operational-level Agreement",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "SSO": {
+      "definition": "Single Sign-On",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "VTL": {
+      "definition": "Virtual Tape Library",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "VDI": {
+      "definition": "Virtual Desktop Infrastructure",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "BIOS": {
+      "definition": "Basic Input Output System",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "DVD": {
+      "definition": "Digital Versatile Disc",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "PSU": {
+      "definition": "Power Supply Unit",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "ROM": {
+      "definition": "Read Only Memory",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "UPS": {
+      "definition": "Uninterruptible Power Supply",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "DC": {
+      "definition": "Data Center",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "GUI": {
+      "definition": "Graphical User Interface",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "TPU": {
+      "definition": "Tensor Processing Unit",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "RISC": {
+      "definition": "Reduced Instruction Set Computer",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "AU": {
+      "definition": "Activation Unit",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "ALU": {
+      "definition": "Arithmetic Logic Units",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "AVX": {
+      "definition": "Advanced Vector Extensions",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "P2V": {
+      "definition": "Physical to Virtual",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "VXLAN": {
+      "definition": "Virtual Extensible Local Area Network",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "VCS": {
+      "definition": "Veritas Cluster Server",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "HAC": {
+      "definition": "High-availability Clusters",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "RUM": {
+      "definition": "Real-user Measurement",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "ERP": {
+      "definition": "Enterprise Resource Planning",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "BPO": {
+      "definition": "Business Process Outsourcing",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "BI": {
+      "definition": "Business Intelligence",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "IT": {
+      "definition": "Information Technology",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "DW": {
+      "definition": "Data Warehouse",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "WINS": {
+      "definition": "Windows Internet Name Service",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "WMI": {
+      "definition": "Windows Management Instrumentation",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "VG": {
+      "definition": "Volume Group",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "TTY": {
+      "definition": "Teletype",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "SFTP": {
+      "definition": "SSH File Transfer Protocol",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "SAN": {
+      "definition": "Storage Area Network",
+      "subfield": "Server/IT Infrastructure"
+    }
+  },
+  {
+    "DNS": {
+      "definition": "Domain Name System",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "HTTP": {
+      "definition": "HyperText Transport Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "HTTPS": {
+      "definition": "HyperText Transport Protocol Secure",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "CDN": {
+      "definition": "Content Delivery Network",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "LAN": {
+      "definition": "Local Area Network",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "WAN": {
+      "definition": "Wide Area Network",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "DHCP": {
+      "definition": "Dynamic Host Configuration Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "TCP": {
+      "definition": "Transmission Control Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "IP": {
+      "definition": "Internet Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "WWW": {
+      "definition": "World Wide Web",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "IoT": {
+      "definition": "Internet Of Things",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "D2D": {
+      "definition": "Device to Device",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "VPN": {
+      "definition": "Virtual Private Network",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "BGP": {
+      "definition": "Border Gateway Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "VLAN": {
+      "definition": "Virtual Local Area Network",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "DOM": {
+      "definition": "Document Object Model",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "UDP": {
+      "definition": "User Datagram Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "CIDR": {
+      "definition": "Classless Inter-Domain Routing",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "VIP": {
+      "definition": "Virtual IP",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "ICMP": {
+      "definition": "Internet Control Message Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "LB": {
+      "definition": "Load Balancer",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "SMTP": {
+      "definition": "Simple Mail Transfer Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "FTP": {
+      "definition": "File Transfer Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "RDP": {
+      "definition": "Remote Desktop Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "MPLS": {
+      "definition": "Multi-Protocol Label Switching",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "NS": {
+      "definition": "Name Server",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "NAT": {
+      "definition": "Network Address Translation",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "SOA": {
+      "definition": "Start of Authority",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "TTL": {
+      "definition": "Time To Live",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "TPS": {
+      "definition": "Transaction Per Second",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "NDA": {
+      "definition": "Nondisclosure Agreement",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "AP": {
+      "definition": "Access Point",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "MAC": {
+      "definition": "Media Access Control",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "NIC": {
+      "definition": "Network Interface Card",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "ISP": {
+      "definition": "Internet Service Provider",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "URL": {
+      "definition": "Uniform Resource Locator",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "PDF": {
+      "definition": "Portable Document Format",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "TLD": {
+      "definition": "Top-level domain",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "RSS": {
+      "definition": "Really Simple Syndication",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "IFTTT": {
+      "definition": "If This Then That",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "IE": {
+      "definition": "Internet Explorer",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "AFAIK": {
+      "definition": "As far as I Know",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "CAN-SPAM": {
+      "definition": "Controlling the Assault of Non-Solicited Pornography and Marketing Act",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "DM": {
+      "definition": "Direct Message",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "FB": {
+      "definition": "Facebook",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "PM": {
+      "definition": "Private Message",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "QoS": {
+      "definition": "Quality of Service",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "MIME": {
+      "definition": "Multipurpose Internet Mail Extensions",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "POP": {
+      "definition": "Post Office Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "IMAP": {
+      "definition": "Internet Message Access Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "CNAME": {
+      "definition": "Canonical Name",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "MX": {
+      "definition": "Mail Exchange",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "PPTP": {
+      "definition": "Point-to-Point Tunneling Protocol",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "LLT": {
+      "definition": "Low Latency Transport",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "POP (CDN)": {
+      "definition": "Point Of Presence of CDN",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "ASN": {
+      "definition": "Autonomous System Number",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "SCMv(Commerce)": {
+      "definition": "Supply Chain Management",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "WPAN": {
+      "definition": "Wireless Personal Area Network",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "WLAN": {
+      "definition": "Wireless Local Area Network",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "URI": {
+      "definition": "Uniform Resource Identifier",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "TTF": {
+      "definition": "TrueType Font",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "NACK": {
+      "definition": "Negative Acknowledgement",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "HAR": {
+      "definition": "HTTP Archive",
+      "subfield": "Network/Internet"
+    }
+  },
+  {
+    "QUIC": {
+      "definition": "Quick UDP Internet Connections",
+      "subfield": "Network/Internet"
+    }
+  }
+]
