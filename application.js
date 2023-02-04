@@ -1,10 +1,13 @@
 import express from "express";
 import { STATUS_CODES } from "http";
 import fs from "fs";
+import cors from "cors";
 
 export default (logger = console) => {
   const log = logger.child({ module: "api" });
   const app = express();
+
+  app.use(cors());
 
   app.use((req, res, next) => {
     const { method, url } = req;
