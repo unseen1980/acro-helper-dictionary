@@ -162,12 +162,6 @@
     }
   },
   {
-    "IG": {
-      "definition": "Internet Gateway",
-      "subfield": "Cloud Computing"
-    }
-  },
-  {
     "KMS": {
       "definition": "Key Management Service",
       "subfield": "Cloud Computing"
@@ -312,18 +306,6 @@
     }
   },
   {
-    "PR": {
-      "definition": "PageRank",
-      "subfield": "Blogging or Search Engine Optimization"
-    }
-  },
-  {
-    "DA": {
-      "definition": "Domain Authority",
-      "subfield": "Blogging or Search Engine Optimization"
-    }
-  },
-  {
     "ROI": {
       "definition": "Return on Investment",
       "subfield": "Blogging or Search Engine Optimization"
@@ -402,18 +384,6 @@
     }
   },
   {
-    "IO": {
-      "definition": "Insertion Order",
-      "subfield": "Blogging or Search Engine Optimization"
-    }
-  },
-  {
-    "SM": {
-      "definition": "Social Media",
-      "subfield": "Blogging or Search Engine Optimization"
-    }
-  },
-  {
     "SMP": {
       "definition": "Social Media Platform",
       "subfield": "Blogging or Search Engine Optimization"
@@ -422,12 +392,6 @@
   {
     "ToS": {
       "definition": "Terms of Service",
-      "subfield": "Blogging or Search Engine Optimization"
-    }
-  },
-  {
-    "UA": {
-      "definition": "Universal Analytics",
       "subfield": "Blogging or Search Engine Optimization"
     }
   },
@@ -504,18 +468,6 @@
     }
   },
   {
-    "NI": {
-      "definition": "Natural Intelligence",
-      "subfield": "Artificial Intelligence"
-    }
-  },
-  {
-    "MI": {
-      "definition": "Machine Intelligence",
-      "subfield": "Artificial Intelligence"
-    }
-  },
-  {
     "NLP": {
       "definition": "Natural Language Processing",
       "subfield": "Artificial Intelligence"
@@ -554,12 +506,6 @@
   {
     "HMD": {
       "definition": "Head Mounted Displays",
-      "subfield": "Artificial Intelligence"
-    }
-  },
-  {
-    "RL": {
-      "definition": "Reinforcement Learning",
       "subfield": "Artificial Intelligence"
     }
   },
@@ -960,12 +906,6 @@
     }
   },
   {
-    "SE": {
-      "definition": "Social Engineering",
-      "subfield": "IT Security"
-    }
-  },
-  {
     "SKid": {
       "definition": "Script Kiddie",
       "subfield": "IT Security"
@@ -1032,18 +972,6 @@
     }
   },
   {
-    "DT": {
-      "definition": "Directory Traversal",
-      "subfield": "IT Security"
-    }
-  },
-  {
-    "PT": {
-      "definition": "Path Traversal",
-      "subfield": "IT Security"
-    }
-  },
-  {
     "SCD": {
       "definition": "Source Code Disclosure",
       "subfield": "IT Security"
@@ -1088,12 +1016,6 @@
   {
     "OS": {
       "definition": "Operating System",
-      "subfield": "Server/IT Infrastructure"
-    }
-  },
-  {
-    "HA": {
-      "definition": "High Availability",
       "subfield": "Server/IT Infrastructure"
     }
   },
@@ -1284,12 +1206,6 @@
     }
   },
   {
-    "DC": {
-      "definition": "Data Center",
-      "subfield": "Server/IT Infrastructure"
-    }
-  },
-  {
     "GUI": {
       "definition": "Graphical User Interface",
       "subfield": "Server/IT Infrastructure"
@@ -1304,12 +1220,6 @@
   {
     "RISC": {
       "definition": "Reduced Instruction Set Computer",
-      "subfield": "Server/IT Infrastructure"
-    }
-  },
-  {
-    "AU": {
-      "definition": "Activation Unit",
       "subfield": "Server/IT Infrastructure"
     }
   },
@@ -1370,12 +1280,6 @@
   {
     "BI": {
       "definition": "Business Intelligence",
-      "subfield": "Server/IT Infrastructure"
-    }
-  },
-  {
-    "IT": {
-      "definition": "Information Technology",
       "subfield": "Server/IT Infrastructure"
     }
   },
