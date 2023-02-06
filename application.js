@@ -2,6 +2,7 @@ import express from "express";
 import { STATUS_CODES } from "http";
 import fs from "fs";
 import cors from "cors";
+import fetch from "node-fetch";
 
 export default (logger = console) => {
   const log = logger.child({ module: "api" });
@@ -35,6 +36,28 @@ export default (logger = console) => {
 
   app.get("/api/dictionary", async (req, res) => {
     res.status(200).json(dictionary);
+  });
+
+  app.post("/api/categorization", express.json(), async (req, res) => {
+    try {
+      const rawResponse = await fetch(
+        `https://language.googleapis.com/v1beta2/documents:classifyText?key=${process.env.NLP}`,
+        {
+          method: "POST",
+          headers: {
+            Accept: "application/json",
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(req.body),
+        }
+      );
+
+      const response = await rawResponse.json();
+      console.log("Taxonomy: ", response);
+      res.status(200).json({ response });
+    } catch (error) {
+      res.status(400).set("Content-Type", "text/plain").send("Bad Request");
+    }
   });
 
   app.use((error, req, res, next) => {
