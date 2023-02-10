@@ -15,11 +15,6 @@
     }
   },
   {
-    "B": {
-      "definition": "B is a programming language developed at Bell Labs circa 1969 by Ken Thompson and Dennis Ritchie."
-    }
-  },
-  {
     "biff": {
       "definition": "\nbiff is a mail notification system for Unix."
     }
@@ -37,11 +32,6 @@
   {
     "byte": {
       "definition": "The byte is a unit of digital information that most commonly consists of eight bits. Historically, the byte was the number of bits used to encode a single character of text in a computer and for this reason it is the smallest addressable unit of memory in many computer architectures. To disambiguate arbitrarily sized bytes from the common 8-bit definition, network protocol documents such as The Internet Protocol refer to an 8-bit byte as an octet. Those bits in an octet are usually counted with numbering from 0 to 7 or 7 to 0 depending on the bit endianness. The first bit is number 0, making the eighth bit number 7."
-    }
-  },
-  {
-    "C": {
-      "definition": "C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating systems, device drivers, protocol stacks, though decreasingly for application software. C is commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems."
     }
   },
   {
@@ -564,11 +554,6 @@
   },
   {
     "AC": {
-      "definition": "In telecommunications, an acoustic coupler is an interface device for coupling electrical signals by acoustical means—usually into and out of a telephone."
-    }
-  },
-  {
-    "AC": {
       "definition": "Alternating current (AC) is an electric current which periodically reverses direction and changes its magnitude continuously with time in contrast to direct current (DC), which flows only in one direction. Alternating current is the form in which electric power is delivered to businesses and residences, and it is the form of electrical energy that consumers typically use when they plug kitchen appliances, televisions, fans and electric lamps into a wall socket. A common source of DC power is a battery cell in a flashlight. The abbreviations AC and DC are often used to mean simply alternating and direct, respectively, as when they modify current or voltage."
     }
   },
@@ -963,19 +948,6 @@
   {
     "AST": {
       "definition": "In computer science, an abstract syntax tree (AST), or just syntax tree, is a tree representation of the abstract syntactic structure of text written in a formal language. Each node of the tree denotes a construct occurring in the text."
-    }
-  },
-  {
-    "AT": {}
-  },
-  {
-    "AT": {
-      "definition": "Access time is the time delay or latency between a request to an electronic system, and the access being completed or the requested data returnedIn a computer, it is the time interval between the instant at which an instruction control unit initiates a call for data or a request to store data, and the instant at which delivery of the data is completed or the storage is started."
-    }
-  },
-  {
-    "AT": {
-      "definition": "In electronics, electrical termination is the practice of ending a transmission line with a device that matches the characteristic impedance of the line. Termination prevents signals from reflecting off the end of the transmission line. Reflections at the ends of unterminated transmission lines cause distortion which can produce ambiguous digital signal levels and mis-operation of digital systems. Reflections in analog signal systems cause such effects as video ghosting, or power loss in radio transmitter transmission lines."
     }
   },
   {
@@ -1565,16 +1537,6 @@
   {
     "CLR": {
       "definition": "The Common Language Runtime (CLR), the virtual machine component of Microsoft .NET Framework, manages the execution of .NET programs. Just-in-time compilation converts the managed code into machine instructions which are then executed on the CPU of the computer. The CLR provides additional services including memory management, type safety, exception handling, garbage collection, security and thread management. All programs written for the .NET Framework, regardless of programming language, are executed in the CLR. All versions of the .NET Framework include CLR. The CLR team was started June 13, 1998."
-    }
-  },
-  {
-    "CM": {
-      "definition": "Configuration management (CM) is a process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life. The CM process is widely used by military engineering organizations to manage changes throughout the system lifecycle of complex systems, such as weapon systems, military vehicles, and information systems. Outside the military, the CM process is also used with IT service management as defined by ITIL, and with other domain models in the civil engineering and other industrial engineering segments such as roads, bridges, canals, dams, and buildings."
-    }
-  },
-  {
-    "CM": {
-      "definition": "Content management (CM) is a set of processes and technologies that supports the collection, managing, and publishing of information in any form or medium. When stored and accessed via computers, this information may be more specifically referred to as digital content, or simply as content.Digital content may take the form of text, images, multimedia files, or any other file type that follows a content lifecycle requiring management.\nThe process of content development and management and is complex enough that various commercial software vendors, such as Interwoven and Microsoft, offer content management software to control and automate significant aspects of the content lifecycle."
     }
   },
   {
@@ -3618,11 +3580,6 @@
   {
     "IRQ": {
       "definition": "In a computer, an interrupt request is a hardware signal sent to the processor that temporarily stops a running program and allows a special program, an interrupt handler, to run instead. Hardware interrupts are used to handle events such as receiving data from a modem or network card, key presses, or mouse movements."
-    }
-  },
-  {
-    "IS": {
-      "definition": "An information system (IS) is a formal, sociotechnical, organizational system designed to collect, process, store, and distribute information. From a sociotechnical perspective, information systems are composed by four components: task, people, structure, and technology. Information systems can be defined as an integration of components for collection, storage and processing of data of which the data is used to provide information, contribute to knowledge as well as digital products that facilitate decision making."
     }
   },
   {
