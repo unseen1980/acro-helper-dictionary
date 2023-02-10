@@ -851,11 +851,6 @@
     }
   },
   {
-    "APR": {
-      "definition": "The Apache Portable Runtime (APR) is a supporting library for the Apache web server. It provides a set of APIs that map to the underlying operating system (OS). Where the OS does not support a particular function, APR will provide an emulation. Thus programmers can use the APR to make a program truly portable across platforms."
-    }
-  },
-  {
     "ARC": {
       "definition": "\nAdaptive Replacement Cache (ARC) is a page replacement algorithm with \nbetter performance than LRU. This is accomplished by keeping track of both frequently used and recently used pages plus a recent eviction history for both. The algorithm was developed at the IBM Almaden Research Center. In 2006, IBM was granted a patent for the adaptive replacement cache policy."
     }
@@ -2007,11 +2002,6 @@
   {
     "DDR": {
       "definition": "Double Data Rate Synchronous Dynamic Random-Access Memory is a double data rate (DDR) synchronous dynamic random-access memory (SDRAM) class of memory integrated circuits used in computers. DDR SDRAM, also retroactively called DDR1 SDRAM, has been superseded by DDR2 SDRAM, DDR3 SDRAM, DDR4 SDRAM and DDR5 SDRAM. None of its successors are forward or backward compatible with DDR1 SDRAM, meaning DDR2, DDR3, DDR4 and DDR5 memory modules will not work in DDR1-equipped motherboards, and vice versa."
-    }
-  },
-  {
-    "DEC": {
-      "definition": "Digital Equipment Corporation, using the trademark Digital, was a major American company in the computer industry from the 1960s to the 1990s. The company was co-founded by Ken Olsen and Harlan Anderson in 1957. Olsen was president until forced to resign in 1992, after the company had gone into precipitous decline."
     }
   },
   {
@@ -3703,11 +3693,6 @@
   {
     "ISV": {
       "definition": "An independent software vendor (ISV), also known as a software publisher, is an organization specializing in making and selling software, as opposed to computer hardware, designed for mass or niche markets. This is in contrast to in-house software, which is developed by the organization that will use it, or custom software, which is designed or adapted for a single, specific third party. Although ISV-provided software is consumed by end users, it remains the property of the vendor."
-    }
-  },
-  {
-    "IT": {
-      "definition": "Information technology (IT) is the use of computers to create, process, store, retrieve and exchange all kinds of data and information. IT forms part of information and communications technology (ICT). An information technology system is generally an information system, a communications system, or, more specifically speaking, a computer system — including all hardware, software, and peripheral equipment — operated by a limited group of IT users."
     }
   },
   {
