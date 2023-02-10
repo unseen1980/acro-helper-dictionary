@@ -61,18 +61,19 @@ export default (logger = console) => {
     }
   });
 
-  app.post("api/chatgpt", express.json(), async (req, res) => {
+  app.post("/api/chatgpt", express.json(), async (req, res) => {
     try {
       const api = new ChatGPTAPI({
         apiKey: process.env.GPT,
       });
 
-      const res =
+      const resp =
         await api.sendMessage(`Find the acronyms or abbreviations or technical jargon in the following text and return me a javascript array. It's element of the array should be a javascript object with the acronym property, the definition property and a small description property: 
-    ${JSON.stringify(req.body)}`);
-      const findings = JSON.parse(JSON.stringify(res.text));
+    ${req.body.text}`);
+      const findings = JSON.parse(JSON.stringify(resp.text));
       res.status(200).json({ response: findings });
     } catch (error) {
+      console.log(error);
       res.status(400).set("Content-Type", "text/plain").send("Bad Request");
     }
   });
