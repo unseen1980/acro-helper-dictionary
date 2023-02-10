@@ -68,10 +68,10 @@ export default (logger = console) => {
       });
 
       const resp =
-        await api.sendMessage(`Find the acronyms or abbreviations or technical jargon in the following text and return me a javascript array. It's element of the array should be a javascript object with the acronym property, the definition property and a small description property: 
+        await api.sendMessage(`Find the acronyms or abbreviations or technical jargon in the following text and return me a javascript array which can be parsed with the function JSON.parse(). It's element of the array should be a javascript object with the acronym property, the definition property and a small description property: 
     ${req.body.text}`);
       const findings = JSON.parse(JSON.stringify(resp.text));
-      res.status(200).json({ response: findings });
+      res.status(200).json({ response: JSON.parse(resp.text) });
     } catch (error) {
       console.log(error);
       res.status(400).set("Content-Type", "text/plain").send("Bad Request");
