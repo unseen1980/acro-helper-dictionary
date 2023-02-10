@@ -3,6 +3,7 @@ import { STATUS_CODES } from "http";
 import fs from "fs";
 import cors from "cors";
 import fetch from "node-fetch";
+import { ChatGPTAPI } from "chatgpt";
 
 export default (logger = console) => {
   const log = logger.child({ module: "api" });
@@ -55,6 +56,22 @@ export default (logger = console) => {
       const response = await rawResponse.json();
       console.log("Taxonomy: ", response);
       res.status(200).json({ response });
+    } catch (error) {
+      res.status(400).set("Content-Type", "text/plain").send("Bad Request");
+    }
+  });
+
+  app.post("api/chatgpt", express.json(), async (req, res) => {
+    try {
+      const api = new ChatGPTAPI({
+        apiKey: process.env.GPT,
+      });
+
+      const res =
+        await api.sendMessage(`Find the acronyms or abbreviations or technical jargon in the following text and return me a javascript array. It's element of the array should be a javascript object with the acronym property, the definition property and a small description property: 
+    ${JSON.stringify(req.body)}`);
+      const findings = JSON.parse(JSON.stringify(res.text));
+      res.status(200).json({ response: findings });
     } catch (error) {
       res.status(400).set("Content-Type", "text/plain").send("Bad Request");
     }
