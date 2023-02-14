@@ -63,7 +63,7 @@ export default (logger = console) => {
 
   app.post("/api/chatgpt", express.json(), async (req, res) => {
     function reduceTextSize(str) {
-      return str.trim().split(/\s+/, 1500).join(" ");
+      return str.trim().split(/\s+/, 1000).join(" ");
     }
     const text = reduceTextSize(req.body.text);
     try {
@@ -72,7 +72,7 @@ export default (logger = console) => {
       });
 
       const resp =
-        await api.sendMessage(`Find the acronyms or abbreviations or technical jargon in the following text and return me a javascript array which can be parsed with the function JSON.parse(). It's element of the array should be a javascript object with the acronym property, the definition property and a small description property: 
+        await api.sendMessage(`Find the acronyms or abbreviations or technical jargon in the following text and return me a javascript array which can be parsed with the function JSON.parse(). Each element of the array should be a javascript object with the acronym property, the definition property and a small description property: 
     ${text}`);
       res.status(200).json({ response: JSON.parse(resp.text) });
     } catch (error) {
