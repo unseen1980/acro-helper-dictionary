@@ -50,11 +50,6 @@
     }
   },
   {
-    "D": {
-      "definition": "D, also known as dlang, is a multi-paradigm system programming language created by Walter Bright at Digital Mars and released in 2001. Andrei Alexandrescu joined the design and development effort in 2007. Though it originated as a re-engineering of C++, D is a profoundly different language —features of D can be considered streamlined and expanded-upon ideas from C++, however D also draws inspiration from other high-level programming languages, notably Java, Python, Ruby, C#, and Eiffel."
-    }
-  },
-  {
     "daemon": {
       "definition": "In multitasking computer operating systems, a daemon is a computer program that runs as a background process, rather than being under the direct control of an interactive user. Traditionally, the process names of a daemon end with the letter d, for clarification that the process is in fact a daemon, and for differentiation between a daemon and a normal computer program. For example, syslogd is a daemon that implements system logging facility, and sshd is a daemon that serves incoming SSH connections."
     }
@@ -475,9 +470,6 @@
     }
   },
   {
-    "8B10BLF": {}
-  },
-  {
     "802.11": {
       "definition": "IEEE 802.11 is part of the IEEE 802 set of local area network (LAN) technical standards, and specifies the set of media access control (MAC) and physical layer (PHY) protocols for implementing wireless local area network (WLAN) computer communication. The standard and amendments provide the basis for wireless network products using the Wi-Fi brand and are the world's most widely used wireless computer networking standards. IEEE 802.11 is used in most home and office networks to allow laptops, printers, smartphones, and other devices to communicate with each other and access the Internet without connecting wires. IEEE 802.11 is also a basis for vehicle-based communication networks with IEEE 802.11p."
     }
@@ -623,16 +615,6 @@
     }
   },
   {
-    "AD": {
-      "definition": "Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks. It is included in most Windows Server operating systems as a set of processes and services. Initially, Active Directory was used only for centralized domain management. However, Active Directory eventually became an umbrella title for a broad range of directory-based identity-related services."
-    }
-  },
-  {
-    "AD": {
-      "definition": "An administrative domain is a service provider holding a security repository permitting to easily authenticate and authorize clients with credentials. This particularly applies to computer network security."
-    }
-  },
-  {
     "ADC": {
       "definition": "In electronics, an analog-to-digital converter is a system that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal. An ADC may also provide an isolated measurement such as an electronic device that converts an analog input voltage or current to a digital number representing the magnitude of the voltage or current. Typically the digital output is a two's complement binary number that is proportional to the input, but there are other possibilities."
     }
@@ -668,18 +650,8 @@
     }
   },
   {
-    "AE": {
-      "definition": "An adaptive equalizer is an equalizer that automatically adapts to time-varying properties of the communication channel. It is frequently used with coherent modulations such as phase-shift keying, mitigating the effects of multipath propagation and Doppler spreading."
-    }
-  },
-  {
     "AES": {
       "definition": "The Advanced Encryption Standard (AES), also known by its original name Rijndael, is a specification for the encryption of electronic data established by the U.S. National Institute of Standards and Technology (NIST) in 2001."
-    }
-  },
-  {
-    "AF": {
-      "definition": "In 3D computer graphics, anisotropic filtering is a method of enhancing the image quality of textures on surfaces of computer graphics that are at oblique viewing angles with respect to the camera where the projection of the texture appears to be non-orthogonal."
     }
   },
   {
@@ -690,11 +662,6 @@
   {
     "AGP": {
       "definition": "Accelerated Graphics Port (AGP) is a parallel expansion card standard, designed for attaching a video card to a computer system to assist in the acceleration of 3D computer graphics. It was originally designed as a successor to PCI-type connections for video cards. Since 2004, AGP was progressively phased out in favor of PCI Express (PCIe), which is serial, as opposed to parallel; by mid-2008, PCI Express cards dominated the market and only a few AGP models were available, with GPU manufacturers and add-in board partners eventually dropping support for the interface in favor of PCI Express."
-    }
-  },
-  {
-    "AH": {
-      "definition": "An Ethernet hub, active hub, network hub, repeater hub, multiport repeater, or simply hub is a network hardware device for connecting multiple Ethernet devices together and making them act as a single network segment. It has multiple input/output (I/O) ports, in which a signal introduced at the input of any port appears at the output of every port except the original incoming. A hub works at the physical layer of the OSI model. A repeater hub also participates in collision detection, forwarding a jam signal to all ports if it detects a collision. In addition to standard 8P8C (\"RJ45\") ports, some hubs may also come with a BNC or an Attachment Unit Interface (AUI) connector to allow connection to legacy 10BASE2 or 10BASE5 network segments."
     }
   },
   {
@@ -710,16 +677,6 @@
   {
     "Ajax": {
       "definition": "Ajax is a set of web development techniques that uses various web technologies on the client-side to create asynchronous web applications. With Ajax, web applications can send and retrieve data from a server asynchronously without interfering with the display and behaviour of the existing page. By decoupling the data interchange layer from the presentation layer, Ajax allows web pages and, by extension, web applications, to change content dynamically without the need to reload the entire page. In practice, modern implementations commonly utilize JSON instead of XML."
-    }
-  },
-  {
-    "AL": {
-      "definition": "In computing, a hyperlink, or simply a link, is a digital reference to data that the user can follow or be guided by clicking or tapping. A hyperlink points to a whole document or to a specific element within a document. Hypertext is text with hyperlinks. The text that is linked from is known as anchor text. A software system that is used for viewing and creating hypertext is a hypertext system, and to create a hyperlink is to hyperlink. A user following hyperlinks is said to navigate or browse the hypertext."
-    }
-  },
-  {
-    "AL": {
-      "definition": "In computer security, an access-control list (ACL) is a list of permissions associated with a system resource (object). An ACL specifies which users or system processes are granted access to objects, as well as what operations are allowed on given objects. Each entry in a typical ACL specifies a subject and an operation. For instance, if a file object has an ACL that contains (Alice: read,write; Bob: read), this would give Alice permission to read and write the file and give Bob permission only to read it."
     }
   },
   {
@@ -743,33 +700,8 @@
     }
   },
   {
-    "AM": {
-      "definition": "An access method is a function of a mainframe operating system that enables access to data on disk, tape or other external devices. Access methods were present in several mainframe operating systems since the late 1950s, under a variety of names; the name access method was introduced in 1963 in the IBM OS/360 operating system. Access methods provide an application programming interface (API) for programmers to transfer data to or from device, and could be compared to device drivers in non-mainframe operating systems, but typically provide a greater level of functionality."
-    }
-  },
-  {
-    "AM": {
-      "definition": "An active-matrix liquid-crystal display (AMLCD) is a type of flat-panel display, the only viable technology for high-resolution TVs, computer monitors, notebook computers, tablet computers and smartphones with an LCD screen, due to low weight, very good image quality, wide color gamut and response time."
-    }
-  },
-  {
     "AMOLED": {
       "definition": "AMOLED is a type of OLED display device technology. OLED describes a specific type of thin-film-display technology in which organic compounds form the electroluminescent material, and active matrix refers to the technology behind the addressing of pixels."
-    }
-  },
-  {
-    "AM": {
-      "definition": "Token Ring is a computer networking technology used to build local area networks. It was introduced by IBM in 1984, and standardized in 1989 as IEEE 802.5."
-    }
-  },
-  {
-    "AM": {
-      "definition": "\"I Have No Mouth, and I Must Scream\" is a post-apocalyptic science fiction short story by American writer Harlan Ellison. It was first published in the March 1967 issue of IF: Worlds of Science Fiction."
-    }
-  },
-  {
-    "AM": {
-      "definition": "Amplitude modulation (AM) is a modulation technique used in electronic communication, most commonly for transmitting messages with a radio wave. In amplitude modulation, the amplitude of the wave is varied in proportion to that of the message signal, such as an audio signal. This technique contrasts with angle modulation, in which either the frequency of the carrier wave is varied, as in frequency modulation, or its phase, as in phase modulation."
     }
   },
   {
@@ -781,9 +713,6 @@
     "AMQP": {
       "definition": "The Advanced Message Queuing Protocol (AMQP) is an open standard application layer protocol for message-oriented middleware. The defining features of AMQP are message orientation, queuing, routing, reliability and security."
     }
-  },
-  {
-    "AMR": {}
   },
   {
     "ANN": {
@@ -981,9 +910,6 @@
     }
   },
   {
-    "AVC": {}
-  },
-  {
     "AVI": {
       "definition": "Audio Video Interleave, is a proprietary multimedia container format and Windows standard introduced by Microsoft in November 1992 as part of its Video for Windows software. AVI files can contain both audio and video data in a file container that allows synchronous audio-with-video playback. Like the DVD video format, AVI files support multiple streaming audio and video, although these features are seldom used."
     }
@@ -1049,11 +975,6 @@
     }
   },
   {
-    "BC": {
-      "definition": "Business continuity may be defined as \"the capability of an organization to continue the delivery of products or services at pre-defined acceptable levels following a disruptive incident\", and business continuity planning is the process of creating systems of prevention and recovery to deal with potential threats to a company. In addition to prevention, the goal is to enable ongoing operations before and during execution of disaster recovery. Business continuity is the intended outcome of proper execution of both business continuity planning and disaster recovery."
-    }
-  },
-  {
     "BCC": {
       "definition": "Blind carbon copy allows the sender of a message to conceal the person entered in the Bcc field from the other recipients. This concept originally applied to paper correspondence and now also applies to email."
     }
@@ -1076,11 +997,6 @@
   {
     "BCP": {
       "definition": "Business continuity may be defined as \"the capability of an organization to continue the delivery of products or services at pre-defined acceptable levels following a disruptive incident\", and business continuity planning is the process of creating systems of prevention and recovery to deal with potential threats to a company. In addition to prevention, the goal is to enable ongoing operations before and during execution of disaster recovery. Business continuity is the intended outcome of proper execution of both business continuity planning and disaster recovery."
-    }
-  },
-  {
-    "BE": {
-      "definition": "In software engineering, the terms frontend and backend refer to the separation of concerns between the presentation layer (frontend), and the data access layer (backend) of a piece of software, or the physical infrastructure or hardware. In the client–server model, the client is usually considered the frontend and the server is usually considered the backend, even when some presentation work is actually done on the server itself."
     }
   },
   {
@@ -1275,17 +1191,12 @@
   },
   {
     "BT": {
-      "definition": "Bluetooth is short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). In the most widely used mode, transmission power is limited to 2.5 milliwatts, giving it a very short range of up to 10 metres (33 ft). It employs UHF radio waves in the ISM bands, from 2.402 GHz to 2.48 GHz. It is mainly used as an alternative to wire connections, to exchange files between nearby portable devices and connect cell phones and music players with wireless headphones."
+      "definition": "1. British Telecoms. 2. BitTorrent is a communication protocol for peer-to-peer file sharing (P2P), which enables users to distribute data and electronic files over the Internet in a decentralized manner. 3. Bluetooth is short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). In the most widely used mode, transmission power is limited to 2.5 milliwatts, giving it a very short range of up to 10 metres (33 ft). It employs UHF radio waves in the ISM bands, from 2.402 GHz to 2.48 GHz. It is mainly used as an alternative to wire connections, to exchange files between nearby portable devices and connect cell phones and music players with wireless headphones."
     }
   },
   {
     "B TAM": {
       "definition": "Basic Telecommunications Access Method (BTAM) is a low-level programming interface specified by IBM for use on the IBM System/360 for start-stop and binary synchronous telecommunications terminals. Later, IBM specified higher-level interfaces QTAM and TCAM."
-    }
-  },
-  {
-    "BW": {
-      "definition": "In computing, bandwidth is the maximum rate of data transfer across a given path. Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth."
     }
   },
   {
@@ -1296,11 +1207,6 @@
   {
     "Byte": {
       "definition": "The byte is a unit of digital information that most commonly consists of eight bits. Historically, the byte was the number of bits used to encode a single character of text in a computer and for this reason it is the smallest addressable unit of memory in many computer architectures. To disambiguate arbitrarily sized bytes from the common 8-bit definition, network protocol documents such as The Internet Protocol refer to an 8-bit byte as an octet. Those bits in an octet are usually counted with numbering from 0 to 7 or 7 to 0 depending on the bit endianness. The first bit is number 0, making the eighth bit number 7."
-    }
-  },
-  {
-    "CA": {
-      "definition": "In computer engineering, computer architecture is a description of the structure of a computer system made from component parts. It can sometimes be a high-level description that ignores details of the implementation. At a more detailed level, the description may include the instruction set architecture design, microarchitecture design, logic design, and implementation."
     }
   },
   {
@@ -1354,16 +1260,6 @@
     }
   },
   {
-    "cc": {
-      "definition": "The GNU Compiler Collection (GCC) is an optimizing compiler produced by the GNU Project supporting various programming languages, hardware architectures and operating systems. The Free Software Foundation (FSF) distributes GCC as free software under the GNU General Public License. GCC is a key component of the GNU toolchain and the standard compiler for most projects related to GNU and the Linux kernel. With roughly 15 million lines of code in 2019, GCC is one of the biggest free programs in existence. It has played an important role in the growth of free software, as both a tool and an example."
-    }
-  },
-  {
-    "CC": {
-      "definition": "Before the development of photographic copiers, a carbon copy was the under-copy of a typed or written document placed over carbon paper and the under-copy sheet itself. When copies of business letters were so produced, it was customary to use the acronym \"CC\" or \"cc\" before a colon and below the writer's signature to inform the principal recipient that carbon copies had been made and distributed to the parties listed after the colon. With the advent of word processors and e-mail, \"cc\" is used as a merely formal indication of the distribution of letters to secondary recipients."
-    }
-  },
-  {
     "CD": {
       "definition": "The compact disc (CD) is a digital optical disc data storage format that was co-developed by Philips and Sony to store and play digital audio recordings. In August 1982, the first compact disc was manufactured. It was then released in October 1982 in Japan and branded as Digital Audio Compact Disc."
     }
@@ -1372,9 +1268,6 @@
     "CDE": {
       "definition": "The Common Desktop Environment (CDE) is a desktop environment for Unix and OpenVMS, based on the Motif widget toolkit. It was part of the UNIX 98 Workstation Product Standard, and was for a long time the Unix desktop associated with commercial Unix workstations. It helped to influence early implementations of successor projects such as KDE and GNOME desktop environment, which largely replaced CDE following the turn of the century."
     }
-  },
-  {
-    "CDFS": {}
   },
   {
     "CDMA": {
@@ -1447,11 +1340,6 @@
     }
   },
   {
-    "CG": {
-      "definition": "Computer graphics deals with generating images and art with the aid of computers. Today, computer graphics is a core technology in digital photography, film, video games, digital art, cell phone and computer displays, and many specialized applications. A great deal of specialized hardware and software has been developed, with the displays of most devices being driven by computer graphics hardware. It is a vast and recently developed area of computer science. The phrase was coined in 1960 by computer graphics researchers Verne Hudson and William Fetter of Boeing. It is often abbreviated as CG, or typically in the context of film as computer generated imagery (CGI). The non-artistic aspects of computer graphics are the subject of computer science research."
-    }
-  },
-  {
     "CGA": {
       "definition": "The Color Graphics Adapter (CGA), originally also called the Color/Graphics Adapter or IBM Color/Graphics Monitor Adapter, introduced in 1981, was IBM's first color graphics card for the IBM PC and established a de facto computer display standard."
     }
@@ -1495,9 +1383,6 @@
     "CIM": {
       "definition": "The Common Information Model (CIM) is an open standard that defines how managed elements in an IT environment are represented as a common set of objects and relationships between them."
     }
-  },
-  {
-    "CIM": {}
   },
   {
     "CIO": {
@@ -1550,30 +1435,14 @@
     }
   },
   {
-    "CMO": {}
-  },
-  {
     "CMS": {
       "definition": "A content management system (CMS) is computer software used to manage the creation and modification of digital content .\nA CMS is typically used for enterprise content management (ECM) and web content management (WCM)."
-    }
-  },
-  {
-    "CN": {
-      "definition": "Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks. It is included in most Windows Server operating systems as a set of processes and services. Initially, Active Directory was used only for centralized domain management. However, Active Directory eventually became an umbrella title for a broad range of directory-based identity-related services."
-    }
-  },
-  {
-    "CN": {
-      "definition": "The Lightweight Directory Access Protocol is an open, vendor-neutral, industry standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network. Directory services play an important role in developing intranet and Internet applications by allowing the sharing of information about users, systems, networks, services, and applications throughout the network. As examples, directory services may provide any organized set of records, often with a hierarchical structure, such as a corporate email directory. Similarly, a telephone directory is a list of subscribers with an address and a phone number."
     }
   },
   {
     "CNC": {
       "definition": "Numerical control is the automated control of machining tools by means of a computer. A CNC machine processes a piece of material to meet specifications by following coded programmed instructions and without a manual operator directly controlling the machining operation."
     }
-  },
-  {
-    "CNG": {}
   },
   {
     "CNG": {
@@ -1621,9 +1490,6 @@
     }
   },
   {
-    "CP/M": {}
-  },
-  {
     "CPRI": {
       "definition": "The Common Public Radio Interface (CPRI) standard defines an interface between Radio Equipment Control (REC) and Radio Equipment (RE). Oftentimes, CPRI links are used to carry data between cell sites and base stations."
     }
@@ -1646,11 +1512,6 @@
   {
     "CQRS": {
       "definition": "Command-query separation (CQS) is a principle of imperative computer programming. It was devised by Bertrand Meyer as part of his pioneering work on the Eiffel programming language."
-    }
-  },
-  {
-    "CR": {
-      "definition": "A carriage return, sometimes known as a cartridge return and often shortened to CR, <CR> or return, is a control character or mechanism used to reset a device's position to the beginning of a line of text. It is closely associated with the line feed and newline concepts, although it can be considered separately in its own right."
     }
   },
   {
@@ -1934,17 +1795,9 @@
     }
   },
   {
-    "DD": {
-      "definition": "Disk density is a capacity designation on magnetic storage, usually floppy disks. Each designation describes a set of characteristics that can affect the areal density of a disk or the efficiency of the encoded data. Such characteristics include modulation method, track width, coercivity, and magnetic field direction."
-    }
-  },
-  {
     "DDE": {
       "definition": "In computing, Dynamic Data Exchange (DDE) is a technology for interprocess communication used in early versions of Microsoft Windows and OS/2. DDE allows programs to manipulate objects provided by other programs, and respond to user actions affecting those objects. DDE was partially superseded by Object Linking and Embedding (OLE), and is currently maintained in Windows systems only for the sake of backward compatibility."
     }
-  },
-  {
-    "DDI": {}
   },
   {
     "DDL": {
@@ -1965,9 +1818,6 @@
     "DES": {
       "definition": "The Data Encryption Standard is a symmetric-key algorithm for the encryption of digital data. Although its short key length of 56 bits makes it too insecure for modern applications, it has been highly influential in the advancement of cryptography."
     }
-  },
-  {
-    "dev": {}
   },
   {
     "DFA": {
@@ -2090,11 +1940,6 @@
     }
   },
   {
-    "DN": {
-      "definition": "The Lightweight Directory Access Protocol is an open, vendor-neutral, industry standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network. Directory services play an important role in developing intranet and Internet applications by allowing the sharing of information about users, systems, networks, services, and applications throughout the network. As examples, directory services may provide any organized set of records, often with a hierarchical structure, such as a corporate email directory. Similarly, a telephone directory is a list of subscribers with an address and a phone number."
-    }
-  },
-  {
     "DND": {
       "definition": "In computer graphical user interfaces, drag and drop is a pointing device gesture in which the user selects a virtual object by \"grabbing\" it and dragging it to a different location or onto another virtual object. In general, it can be used to invoke many kinds of actions, or create various types of associations between two abstract objects."
     }
@@ -2157,11 +2002,6 @@
   {
     "DPMS": {
       "definition": "VESA Display Power Management Signaling is a standard from the VESA consortium for power management of video monitors. Example usage includes turning off, or putting the monitor into standby after a period of idle time to save power. Some commercial displays also incorporate this technology."
-    }
-  },
-  {
-    "DR": {
-      "definition": "Disaster recovery is the process of maintaining or reestablishing vital infrastructure and systems following a natural or human-induced disaster, such as a storm or battle. It employs policies, tools, and procedures. Disaster recovery focuses on the information technology (IT) or technology systems supporting critical business functions as opposed to business continuity. This involves keeping all essential aspects of a business functioning despite significant disruptive events; it can therefore be considered a subset of business continuity. Disaster recovery assumes that the primary site is not immediately recoverable and restores data and services to a secondary site."
     }
   },
   {
@@ -2480,9 +2320,6 @@
     }
   },
   {
-    "EOD": {}
-  },
-  {
     "EOF": {
       "definition": "\n\nIn computing, end-of-file (EOF) is a condition in a computer operating system where no more data can be read from a data source. The data source is usually called a file or stream."
     }
@@ -2583,9 +2420,6 @@
     }
   },
   {
-    "EWM": {}
-  },
-  {
     "EWMH": {
       "definition": "Extended Window Manager Hints, a.k.a. NetWM, is an X Window System standard for the communication between window managers and applications. It builds on the functionality of the Inter-Client Communication Conventions Manual (ICCCM)."
     }
@@ -2676,11 +2510,6 @@
     }
   },
   {
-    "FE": {
-      "definition": "In software engineering, the terms frontend and backend refer to the separation of concerns between the presentation layer (frontend), and the data access layer (backend) of a piece of software, or the physical infrastructure or hardware. In the client–server model, the client is usually considered the frontend and the server is usually considered the backend, even when some presentation work is actually done on the server itself."
-    }
-  },
-  {
     "FEC": {
       "definition": "\nIn computing, telecommunication, information theory, and coding theory, forward error correction (FEC) or channel coding is a technique used for controlling errors in data transmission over unreliable or noisy communication channels."
     }
@@ -2716,11 +2545,6 @@
     }
   },
   {
-    "FL": {
-      "definition": "FL is a programming language created at the IBM Almaden Research Center by John Backus, John Williams, and Edward Wimmers in the 1980s and documented in a report from 1989. FL was designed as a successor of Backus' earlier FP language, providing specific support for what Backus termed function-level programming."
-    }
-  },
-  {
     "FLAC": {
       "definition": "FLAC is an audio coding format for lossless compression of digital audio, developed by the Xiph.Org Foundation, and is also the name of the free software project producing the FLAC tools, the reference software package that includes a codec implementation. Digital audio compressed by FLAC's algorithm can typically be reduced to between 50 and 70 percent of its original size and decompresses to an identical copy of the original audio data."
     }
@@ -2739,9 +2563,6 @@
     "FMC": {
       "definition": "Fixed–mobile convergence (FMC) is a change in telecommunications that removes differences between fixed and mobile networks."
     }
-  },
-  {
-    "FMO": {}
   },
   {
     "FOLDOC": {
@@ -2766,11 +2587,6 @@
   {
     "FOSS": {
       "definition": "Free and open-source software (FOSS) is a term used to refer to groups of software consisting of both free software and open-source software where anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software. This is in contrast to proprietary software, where the software is under restrictive copyright licensing and the source code is usually hidden from the users."
-    }
-  },
-  {
-    "FP": {
-      "definition": "FP is a programming language created by John Backus to support the function-level programming paradigm. It allows building programs from a set of generally useful primitives and avoiding named variables. It was heavily influenced by APL which was developed by Kenneth E. Iverson in the early 1960s."
     }
   },
   {
@@ -2824,9 +2640,6 @@
     }
   },
   {
-    "FTTA": {}
-  },
-  {
     "FTTC": {
       "definition": "Fiber to the x or fiber in the loop is a generic term for any broadband network architecture using optical fiber to provide all or part of the local loop used for last mile telecommunications. As fiber optic cables are able to carry much more data than copper cables, especially over long distances, copper telephone networks built in the 20th century are being replaced by fiber."
     }
@@ -2870,9 +2683,6 @@
     "FYI": {
       "definition": "\"FYI\" is a common abbreviation of \"for your information\". The term, originally a wire service abbreviation used by journalists, is commonly used in email, instant messaging and other messages to indicate an informational message or explanatory statement not suggesting any action, or requiring a response. The abbreviation is also commonly used in spoken conversations."
     }
-  },
-  {
-    "FVEK": {}
   },
   {
     "G11N": {
@@ -3070,9 +2880,6 @@
     }
   },
   {
-    "GYR": {}
-  },
-  {
     "HA": {
       "definition": "High availability (HA) is a characteristic of a system which aims to ensure an agreed level of operational performance, usually uptime, for a higher than normal period."
     }
@@ -3081,9 +2888,6 @@
     "HAL": {
       "definition": "Hardware abstractions are sets of routines in software that provide programs with access to hardware resources through programming interfaces. The programming interface allows all devices in a particular class C of hardware devices to be accessed through identical interfaces even though C may contain different subclasses of devices that each provide a different hardware interface."
     }
-  },
-  {
-    "HARD": {}
   },
   {
     "HASP": {
@@ -3321,9 +3125,6 @@
     }
   },
   {
-    "ICH": {}
-  },
-  {
     "ICMP": {
       "definition": "The Internet Control Message Protocol (ICMP) is a supporting protocol in the Internet protocol suite. It is used by network devices, including routers, to send error messages and operational information indicating success or failure when communicating with another IP address, for example, an error is indicated when a requested service is not available or that a host or router could not be reached. ICMP differs from transport protocols such as TCP and UDP in that it is not typically used to exchange data between systems, nor is it regularly employed by end-user network applications."
     }
@@ -3434,16 +3235,6 @@
     }
   },
   {
-    "IL": {
-      "definition": "An intermediate representation (IR) is the data structure or code used internally by a compiler or virtual machine to represent source code. An IR is designed to be conducive to further processing, such as optimization and translation. A \"good\" IR must be accurate – capable of representing the source code without loss of information – and independent of any particular source or target language. An IR may take one of several forms: an in-memory data structure, or a special tuple- or stack-based code readable by the program. In the latter case it is also called an intermediate language."
-    }
-  },
-  {
-    "IM": {
-      "definition": "Instant messaging (IM) technology is a type of online chat allowing real-time text transmission over the Internet or another computer network. Messages are typically transmitted between two or more parties, when each user inputs text and triggers a transmission to the recipient(s), who are all connected on a common network. It differs from email in that conversations over instant messaging happen in real-time. Most modern IM applications use push technology and also add other features such as emojis, file transfer, chatbots, voice over IP, or video chat capabilities."
-    }
-  },
-  {
     "IMAP": {
       "definition": "In computing, the Internet Message Access Protocol (IMAP) is an Internet standard protocol used by email clients to retrieve email messages from a mail server over a TCP/IP connection. IMAP is defined by RFC 9051."
     }
@@ -3454,15 +3245,14 @@
     }
   },
   {
-    "IMR": {}
-  },
-  {
     "INFOSEC": {
       "definition": "Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or reducing the probability of unauthorized/inappropriate access to data, or the unlawful use, disclosure, disruption, deletion, corruption, modification, inspection, recording, or devaluation of information. It also involves actions intended to reduce the adverse impacts of such incidents. Protected information may take any form, e.g. electronic or physical, tangible or intangible. Information security's primary focus is the balanced protection of the confidentiality, integrity, and availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity. This is largely achieved through a structured risk management process that involves:identifying information and related assets, plus potential threats, vulnerabilities, and impacts;\nevaluating the risks\ndeciding how to address or treat the risks i.e. to avoid, mitigate, share or accept them\nwhere risk mitigation is required, selecting or designing appropriate security controls and implementing them\nmonitoring the activities, making adjustments as necessary to address any issues, changes and improvement opportunities"
     }
   },
   {
-    "I/O": {}
+    "I/O": {
+      "definition": "In computing, input/output (I/O, i/o, or informally io or IO) is the communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system."
+    }
   },
   {
     "IoT": {
@@ -3570,9 +3360,6 @@
     }
   },
   {
-    "IRP": {}
-  },
-  {
     "IRQ": {
       "definition": "In a computer, an interrupt request is a hardware signal sent to the processor that temporarily stops a running program and allows a special program, an interrupt handler, to run instead. Hardware interrupts are used to handle events such as receiving data from a modem or network card, key presses, or mouse movements."
     }
@@ -3668,10 +3455,9 @@
     }
   },
   {
-    "IVCR": {}
-  },
-  {
-    "ISDN": {}
+    "ISDN": {
+      "definition": "ntegrated Services Digital Network (ISDN) is a set of communication standards for simultaneous digital transmission of voice, video, data, and other network services over the digitalised circuits of the public switched telephone network."
+    }
   },
   {
     "J2EE": {
@@ -3737,9 +3523,6 @@
     "JEE": {
       "definition": "Jakarta EE, formerly Java Platform, Enterprise Edition and Java 2 Platform, Enterprise Edition (J2EE), is a set of specifications, extending Java SE with specifications for enterprise features such as distributed computing and web services. Jakarta EE applications are run on reference runtimes, that can be microservices or application servers, which handle transactions, security, scalability, concurrency and management of the components it is deploying."
     }
-  },
-  {
-    "JES": {}
   },
   {
     "JDS": {
@@ -4040,9 +3823,6 @@
     "LPC": {
       "definition": "LPMud, abbreviated LP, is a family of MUD server software. Its first instance, the original LPMud game driver, was developed in 1989 by Lars Pensjö. LPMud was innovative in its separation of the MUD infrastructure into a virtual machine and a development framework written in the LPC programming language."
     }
-  },
-  {
-    "LPI": {}
   },
   {
     "LPI": {
@@ -4415,7 +4195,9 @@
     }
   },
   {
-    "MMIO": {}
+    "MMIO": {
+      "definition": "Memory-mapped I/O (MMIO) and port-mapped I/O (PMIO) are two complementary methods of performing input/output (I/O) between the central processing unit (CPU) and peripheral devices in a computer."
+    }
   },
   {
     "MMI": {
@@ -4758,9 +4540,6 @@
     }
   },
   {
-    "NIO": {}
-  },
-  {
     "NIST": {
       "definition": "The National Institute of Standards and Technology (NIST) is an agency of the United States Department of Commerce whose mission is to promote American innovation and industrial competitiveness. NIST's activities are organized into physical science laboratory programs that include nanoscale science and technology, engineering, information technology, neutron research, material measurement, and physical measurement. From 1901 to 1988, the agency was named the National Bureau of Standards."
     }
@@ -4829,12 +4608,6 @@
     "NS": {
       "definition": "Netscape Communications Corporation was an American independent computer services company with headquarters in Mountain View, California, and then Dulles, Virginia. Its Netscape web browser was once dominant but lost to Internet Explorer and other competitors in the so-called first browser war, with its market share falling from more than 90 percent in the mid-1990s to less than 1 percent in 2006. An early Netscape employee Brendan Eich created the JavaScript programming language, the most widely used language for client-side scripting of web pages and a founding engineer of Netscape Lou Montulli created HTTP cookies. The company also developed SSL which was used for securing online communications before its successor TLS took over."
     }
-  },
-  {
-    "NSA": {}
-  },
-  {
-    "NSI": {}
   },
   {
     "NSPR": {
@@ -5112,9 +4885,6 @@
     }
   },
   {
-    "PAM": {}
-  },
-  {
     "PAN": {
       "definition": "A personal area network (PAN) is a computer network for interconnecting electronic devices within an individual person's workspace. A PAN provides data transmission among devices such as computers, smartphones, tablets and personal digital assistants. PANs can be used for communication among the personal devices themselves, or for connecting to a higher level network and the Internet where one master device takes up the role as gateway."
     }
@@ -5225,12 +4995,6 @@
     }
   },
   {
-    "PFA": {}
-  },
-  {
-    "PG": {}
-  },
-  {
     "PGA": {
       "definition": "A pin grid array (PGA) is a type of integrated circuit packaging. In a PGA, the package is square or rectangular, and the pins are arranged in a regular array on the underside of the package. The pins are commonly spaced 2.54 mm (0.1\") apart, and may or may not cover the entire underside of the package."
     }
@@ -5291,10 +5055,9 @@
     }
   },
   {
-    "PING": {}
-  },
-  {
-    "PIO": {}
+    "PING": {
+      "definition": "ping is a computer network administration software utility used to test the reachability of a host on an Internet Protocol (IP) network"
+    }
   },
   {
     "PKCS": {
@@ -5322,15 +5085,9 @@
     }
   },
   {
-    "PL/I": {}
-  },
-  {
     "PL/M": {
       "definition": "The PL/M programming language \n(an acronym of Programming Language for Microcomputers)\nis a high-level language conceived and developed by \nGary Kildall in 1973 for Hank Smith at Intel for its microprocessors."
     }
-  },
-  {
-    "PL/P": {}
   },
   {
     "PLT": {
@@ -5368,7 +5125,9 @@
     }
   },
   {
-    "POCO": {}
+    "POCO": {
+      "definition": "In software engineering, a plain old CLR object, or plain old class object (POCO) is a simple object created in the .NET Common Language Runtime (CLR) that is unencumbered by inheritance or attributes"
+    }
   },
   {
     "POID": {
@@ -5411,9 +5170,6 @@
     }
   },
   {
-    "PPM": {}
-  },
-  {
     "PPP": {
       "definition": "In computer networking, Point-to-Point Protocol (PPP) is a data link layer communication protocol between two routers directly without any host or any other networking in between. It can provide loop connection authentication, transmission encryption, and data compression."
     }
@@ -5449,7 +5205,9 @@
     }
   },
   {
-    "PS/2": {}
+    "PS/2": {
+      "definition": "The PS/2 port is a 6-pin mini-DIN connector used for connecting keyboards and mice to a PC compatible computer system."
+    }
   },
   {
     "PSA": {
@@ -5507,9 +5265,6 @@
     }
   },
   {
-    "PRC": {}
-  },
-  {
     "QDR": {
       "definition": "Quad Data Rate (QDR) SRAM is a type of static RAM computer memory that can transfer up to four words of data in each clock cycle. Like Double Data-Rate (DDR) SDRAM, QDR SRAM transfers data on both rising and falling edges of the clock signal. The main purpose of this capability is to enable reads and writes to occur at high clock frequencies without the loss of bandwidth due to bus-turnaround cycles incurred in DDR SRAM. QDR SRAM uses two clocks, one for read data and one for write data and has separate read and write data buses, whereas DDR SRAM uses a single clock and has a single common data bus used for both reads and writes. This helps to eliminate problems caused by the propagation delay of the clock wiring, and allows the illusion of concurrent reads and writes."
     }
@@ -5543,12 +5298,6 @@
     "QTAM": {
       "definition": "Queued Telecommunications Access Method (QTAM) is an IBM System/360 communications access method incorporating built-in queuing. QTAM was an alternative to the lower level Basic Telecommunications Access Method (BTAM)."
     }
-  },
-  {
-    "QSOP": {}
-  },
-  {
-    "qWave": {}
   },
   {
     "RACF": {
@@ -5616,21 +5365,13 @@
     }
   },
   {
-    "RCA": {}
+    "RCA": {
+      "definition": "The RCA connector[3] is a type of electrical connector commonly used to carry audio and video signals. The name RCA derives from the company Radio Corporation of America, which introduced the design in the 1930s."
+    }
   },
   {
     "RCS": {
       "definition": "Revision Control System (RCS) is an early implementation of a version control system (VCS). It is a set of UNIX commands that allow multiple users to develop and maintain program code or documents. With RCS, users can make their own revisions of a document, commit changes, and merge them. RCS was originally developed for programs but is also useful for text documents or configuration files that are frequently revised."
-    }
-  },
-  {
-    "RD": {
-      "definition": "In computing, the term remote desktop refers to a software- or operating system feature that allows a personal computer's desktop environment to be run remotely off of one system, while being displayed on a separate client device. Remote desktop applications have varying features. Some allow attaching to an existing user's session and \"remote controlling\", either displaying the remote control session or blanking the screen. Taking over a desktop remotely is a form of remote administration."
-    }
-  },
-  {
-    "rd": {
-      "definition": "In computing, rmdir is a command which will remove an empty directory on various operating systems."
     }
   },
   {
@@ -6014,9 +5755,6 @@
     }
   },
   {
-    "SCSA": {}
-  },
-  {
     "SCSI": {
       "definition": "Small Computer System Interface is a set of standards for physically connecting and transferring data between computers and peripheral devices. The SCSI standards define commands, protocols, electrical, optical and logical interfaces. The SCSI standard defines command sets for specific peripheral device types; the presence of \"unknown\" as one of these types means that in theory it can be used as an interface to almost any device, but the standard is highly pragmatic and addressed toward commercial requirements. The initial Parallel SCSI was most commonly used for hard disk drives and tape drives, but it can connect a wide range of other devices, including scanners and CD drives, although not all controllers can handle all devices."
     }
@@ -6045,9 +5783,6 @@
     "SDI": {
       "definition": "A multiple-document interface (MDI) is a graphical user interface in which multiple windows reside under a single parent window. Such systems often allow child windows to embed other windows inside them as well, creating complex nested hierarchies. This contrasts with single-document interfaces (SDI) where all windows are independent of each other."
     }
-  },
-  {
-    "SEC": {}
   },
   {
     "SDIO": {
@@ -6275,9 +6010,6 @@
     }
   },
   {
-    "S/MIME": {}
-  },
-  {
     "SMP": {
       "definition": "In the Unicode standard, a plane is a continuous group of 65,536 (216) code points. There are 17 planes, identified by the numbers 0 to 16, which corresponds with the possible values 00–1016 of the first two positions in six position hexadecimal format (U+hhhhhh). Plane 0 is the Basic Multilingual Plane (BMP), which contains most commonly used characters. The higher planes 1 through 16 are called \"supplementary planes\". The last code point in Unicode is the last code point in plane 16, U+10FFFF. As of Unicode version 15.0, five of the planes have assigned code points (characters), and seven are named."
     }
@@ -6361,9 +6093,6 @@
     "SOE": {
       "definition": "A standard operating environment (SOE) is a standard implementation of an operating system and its associated software. Associated names and concepts include:Managed operating environment (MOE)\nConsistent or common operating environment (COE)\nManaged desktop environment (MDE)\nDesktop managed services (DMS)\nStandard desktop environment (SDE)\nStandard desktop configuration (SDC)\nUnmanaged operating environment (UOE)\n\"Standard image\""
     }
-  },
-  {
-    "SOHO": {}
   },
   {
     "SOI": {
@@ -6636,9 +6365,6 @@
     }
   },
   {
-    "tmp": {}
-  },
-  {
     "TNC": {
       "definition": "A terminal node controller (TNC) is a device used by amateur radio operators to participate in AX.25 packet radio networks. It is similar in function to the Packet Assembler/Disassemblers used on X.25 networks, with the addition of a modem to convert baseband digital signals to audio tones."
     }
@@ -6749,7 +6475,9 @@
     }
   },
   {
-    "UART": {}
+    "UART": {
+      "definition": "A universal asynchronous receiver-transmitter (UART /ˈjuːɑːrt/) is a computer hardware device for asynchronous serial communication in which the data format and transmission speeds are configurable."
+    }
   },
   {
     "UAT": {
@@ -6877,9 +6605,6 @@
     }
   },
   {
-    "usr": {}
-  },
-  {
     "USR": {
       "definition": "U.S. Robotics Corporation, often called USR, is a company that produces USRobotics computer modems and related products. Its initial marketing was aimed at bulletin board systems, where its high-speed HST protocol made FidoNet transfers much faster, and thus less costly. During the 1990s it became a major consumer brand with its Sportster line. The company had a reputation for high quality and support for the latest communications standards as they emerged, notably in its V.Everything line, released in 1996."
     }
@@ -6913,9 +6638,6 @@
     "UUID": {
       "definition": "A universally unique identifier (UUID) is a 128-bit label used for information in computer systems. The term globally unique identifier (GUID) is also used."
     }
-  },
-  {
-    "UUN": {}
   },
   {
     "UVC": {
@@ -7023,7 +6745,9 @@
     }
   },
   {
-    "VIRUS": {}
+    "VIRUS": {
+      "definition": "A computer virus[1] is a type of computer program that, when executed, replicates itself by modifying other computer programs and inserting its own code into those programs."
+    }
   },
   {
     "VLAN": {
@@ -7366,9 +7090,6 @@
     }
   },
   {
-    "XAG": {}
-  },
-  {
     "XAML": {
       "definition": "Extensible Application Markup Language is a declarative XML-based language developed by Microsoft for initializing structured values and objects. It is available under Microsoft's Open Specification Promise."
     }
@@ -7502,9 +7223,6 @@
     "Y2K": {
       "definition": "The year 2000 problem, also known as the Y2K problem, Y2K scare, millennium bug, Y2K bug, Y2K glitch, Y2K error, or simply Y2K refers to potential computer errors related to the formatting and storage of calendar data for dates in and after the year 2000. Many programs represented four-digit years with only the final two digits, making the year 2000 indistinguishable from 1900. Computer systems' inability to distinguish dates correctly had the potential to bring down worldwide infrastructures for industries ranging from banking to air travel."
     }
-  },
-  {
-    "YAAF": {}
   },
   {
     "YACC": {
