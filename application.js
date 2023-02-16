@@ -4,6 +4,7 @@ import fs from "fs";
 import cors from "cors";
 import fetch from "node-fetch";
 import { ChatGPTAPI } from "chatgpt";
+import { jsonrepair } from "jsonrepair";
 
 export default (logger = console) => {
   const log = logger.child({ module: "api" });
@@ -74,8 +75,8 @@ export default (logger = console) => {
       const resp =
         await api.sendMessage(`Find the acronyms or abbreviations or technical jargon in the following text and return me a javascript array which can be parsed with the function JSON.parse(). Each element of the array should be a javascript object with the acronym property, the definition property and a small description property: 
     ${text}`);
-      console.log("GPT response: ", resp.text);
-      res.status(200).json({ response: resp.text });
+      console.log("GPT response: ", JSON.parse(jsonrepair(resp.text)));
+      res.status(200).json({ response: JSON.parse(jsonrepair(resp.text)) });
     } catch (error) {
       console.log(error);
       res.status(400).set("Content-Type", "text/plain").send("Bad Request");
