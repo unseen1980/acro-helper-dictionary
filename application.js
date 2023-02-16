@@ -75,7 +75,7 @@ export default (logger = console) => {
         await api.sendMessage(`Find the acronyms or abbreviations or technical jargon in the following text and return me a javascript array which can be parsed with the function JSON.parse(). Each element of the array should be a javascript object with the acronym property, the definition property and a small description property: 
     ${text}`);
       console.log("GPT response: ", resp.text);
-      res.status(200).json({ response: JSON.parse(JSON.stringify(resp.text)) });
+      res.status(200).json({ response: resp.text });
     } catch (error) {
       console.log(error);
       res.status(400).set("Content-Type", "text/plain").send("Bad Request");
