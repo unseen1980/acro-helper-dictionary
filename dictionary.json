@@ -7286,7 +7286,7 @@
   },
   {
     "S3": {
-      "definition": "Simple Storage System"
+      "definition": "In Amazon Web Services, S3 is a service for storing data. S3 means Simple Storage System"
     }
   },
   {
@@ -7342,11 +7342,6 @@
   {
     "Amazon EBS": {
       "definition": "Amazon Elastic Block Store"
-    }
-  },
-  {
-    "AZ": {
-      "definition": "Availability Zone"
     }
   },
   {
@@ -7495,11 +7490,6 @@
     }
   },
   {
-    "GA": {
-      "definition": "Google Analytics"
-    }
-  },
-  {
     "CPL": {
       "definition": "Cost Per Lead"
     }
@@ -7517,11 +7507,6 @@
   {
     "QDF": {
       "definition": "Query Deserves Freshness"
-    }
-  },
-  {
-    "SC": {
-      "definition": "Supplementary Content"
     }
   },
   {
@@ -7565,11 +7550,6 @@
     }
   },
   {
-    "CV": {
-      "definition": "Computer Vision"
-    }
-  },
-  {
     "HMD": {
       "definition": "Head Mounted Displays"
     }
@@ -7577,11 +7557,6 @@
   {
     "NLNN": {
       "definition": "Non-Learning Neural Networks"
-    }
-  },
-  {
-    "SR": {
-      "definition": "Speech Recognition"
     }
   },
   {
@@ -7657,11 +7632,6 @@
   {
     "IPSec": {
       "definition": "Internet Protocol Security"
-    }
-  },
-  {
-    "DDoS": {
-      "definition": "Distributed Denial Of Services"
     }
   },
   {
@@ -7810,23 +7780,8 @@
     }
   },
   {
-    "SLA": {
-      "definition": "Service Level Agreement"
-    }
-  },
-  {
     "OLA": {
       "definition": "Operational-level Agreement"
-    }
-  },
-  {
-    "BIOS": {
-      "definition": "Basic Input Output System"
-    }
-  },
-  {
-    "UPS": {
-      "definition": "Uninterruptible Power Supply"
     }
   },
   {
@@ -7850,11 +7805,6 @@
     }
   },
   {
-    "VCS": {
-      "definition": "Veritas Cluster Server"
-    }
-  },
-  {
     "HAC": {
       "definition": "High-availability Clusters"
     }
@@ -7870,33 +7820,8 @@
     }
   },
   {
-    "WMI": {
-      "definition": "Windows Management Instrumentation"
-    }
-  },
-  {
-    "HTTP": {
-      "definition": "HyperText Transport Protocol"
-    }
-  },
-  {
-    "WAN": {
-      "definition": "Wide Area Network"
-    }
-  },
-  {
-    "IoT": {
-      "definition": "Internet Of Things"
-    }
-  },
-  {
     "D2D": {
       "definition": "Device to Device"
-    }
-  },
-  {
-    "DOM": {
-      "definition": "Document Object Model"
     }
   },
   {
@@ -7905,23 +7830,8 @@
     }
   },
   {
-    "FTP": {
-      "definition": "File Transfer Protocol"
-    }
-  },
-  {
-    "NAT": {
-      "definition": "Network Address Translation"
-    }
-  },
-  {
     "NDA": {
       "definition": "Nondisclosure Agreement"
-    }
-  },
-  {
-    "AP": {
-      "definition": "Access Point"
     }
   },
   {
@@ -7940,18 +7850,8 @@
     }
   },
   {
-    "DM": {
-      "definition": "Direct Message"
-    }
-  },
-  {
     "FB": {
       "definition": "Facebook"
-    }
-  },
-  {
-    "PM": {
-      "definition": "Private Message"
     }
   },
   {
