@@ -3180,11 +3180,6 @@
     }
   },
   {
-    "IE": {
-      "definition": "Internet Explorer is a deprecated series of graphical web browsers developed by Microsoft that were used in the Windows line of operating systems. Starting in 1995, it was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads or in-service packs and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. Microsoft spent over US$100 million per year on Internet Explorer in the late 1990s, with over 1,000 people involved in the project by 1999. New feature development for the browser was discontinued in 2016 in favor of its successor, Microsoft Edge."
-    }
-  },
-  {
     "IEC": {
       "definition": "The International Electrotechnical Commission is an international standards organization that prepares and publishes international standards for all electrical, electronic and related technologies – collectively known as \"electrotechnology\". IEC standards cover a vast range of technologies from power generation, transmission and distribution to home appliances and office equipment, semiconductors, fibre optics, batteries, solar energy, nanotechnology and marine energy as well as many others. The IEC also manages four global conformity assessment systems that certify whether equipment, system or components conform to its international standards."
     }
@@ -4067,16 +4062,6 @@
   {
     "MDM": {
       "definition": "Master data management (MDM) is a technology-enabled discipline in which business and information technology work together to ensure the uniformity, accuracy, stewardship, semantic consistency and accountability of the enterprise's official shared master data assets."
-    }
-  },
-  {
-    "ME": {
-      "definition": "Microsoft Edge is a proprietary, cross-platform web browser created by Microsoft. It was first released in 2015 as part of Windows 10 and Xbox One and later ported to other platforms as a fork of Google's Chromium open-source project: Android and iOS, macOS, older Windows versions, and most recently Linux. It was created as the successor to Internet Explorer (IE)."
-    }
-  },
-  {
-    "ME": {
-      "definition": "Windows Millennium Edition, or Windows Me, is an operating system developed by Microsoft as part of its Windows 9x family of Microsoft Windows operating systems. It is written in C. It is the successor to Windows 98, and was released to manufacturing on June 19, 2000, and then to retail on September 14, 2000. It was Microsoft's main operating system for home users until the introduction of its successor Windows XP in October 2001."
     }
   },
   {
