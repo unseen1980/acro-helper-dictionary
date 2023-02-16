@@ -7286,147 +7286,147 @@
   },
   {
     "GCLB": {
-      "definition": "Google Cloud Load Balancer"
+      "definition": "Google Cloud Load Balancer - A load balancer service provided by Google Cloud Platform, which distributes traffic across multiple backend instances to improve application availability and scalability."
     }
   },
   {
     "Amazon ES": {
-      "definition": "Amazon Elasticsearch Service"
+      "definition": "Amazon Elasticsearch Service - A fully managed service provided by Amazon Web Services (AWS) for deploying, operating, and scaling Elasticsearch in the cloud."
     }
   },
   {
     "AMI": {
-      "definition": "Amazon Machine Image"
+      "definition": "Amazon Machine Image - A pre-configured virtual machine image used to create EC2 instances in Amazon Web Services (AWS). An AMI includes an operating system, application server, and applications."
     }
   },
   {
     "ARN": {
-      "definition": "Amazon Resource Name"
+      "definition": "Amazon Resource Name - A unique identifier assigned to an AWS resource, such as an EC2 instance, S3 bucket, or IAM user."
     }
   },
   {
     "EC2": {
-      "definition": "Elastic Compute Cloud"
+      "definition": "Elastic Compute Cloud - A web service provided by Amazon Web Services (AWS) that provides resizable compute capacity in the cloud. EC2 allows users to launch virtual machines (instances) with a variety of operating systems and pre-configured templates."
     }
   },
   {
     "EMR": {
-      "definition": "Elastic Map Reduce"
+      "definition": "Elastic Map Reduce - A web service provided by Amazon Web Services (AWS) for processing large amounts of data using Hadoop in the cloud. EMR provides pre-configured Hadoop clusters and can be used for data analysis, log processing, and machine learning applications."
     }
   },
   {
     "SWS": {
-      "definition": "Simple Workflow Service"
+      "definition": "Simple Workflow Service - A fully managed workflow service provided by Amazon Web Services (AWS), which allows users to build and run distributed applications with multiple components and tasks."
     }
   },
   {
     "SNS": {
-      "definition": "Simple Notification Service"
+      "definition": "Simple Notification Service - A fully managed messaging service provided by Amazon Web Services (AWS), which allows users to send and receive notifications (email, SMS, mobile push, etc.) from various sources."
     }
   },
   {
     "GCS": {
-      "definition": "Google Cloud Storage"
+      "definition": "Google Cloud Storage - A fully managed cloud storage service provided by Google Cloud Platform, which allows users to store and retrieve data objects in the cloud. GCS is highly available, durable, and scalable."
     }
   },
   {
     "VPC": {
-      "definition": "Virtual Private Cloud"
+      "definition": "Virtual Private Cloud - A virtual network provided by Amazon Web Services (AWS), which allows users to launch AWS resources into a virtual network that they define. VPC provides advanced security features and can be connected to on-premises networks using a VPN connection."
     }
   },
   {
     "Amazon EBS": {
-      "definition": "Amazon Elastic Block Store"
+      "definition": "Amazon Elastic Block Store - A fully managed block storage service provided by Amazon Web Services (AWS), which provides persistent block-level storage volumes for EC2 instances. EBS volumes can be attached to EC2 instances and used as primary storage for database, file system, and application workloads."
     }
   },
   {
     "EBS": {
-      "definition": "Elastic Block Store"
+      "definition": "Elastic Block Store - A block-level storage service provided by Amazon Web Services (AWS), which provides persistent storage volumes for EC2 instances. EBS volumes can be attached to EC2 instances and used as primary storage for database, file system, and application workloads."
     }
   },
   {
     "ELB": {
-      "definition": "Elastic Load Balancer"
+      "definition": "Elastic Load Balancer - A load balancing service provided by Amazon Web Services (AWS), which distributes traffic across multiple backend instances to improve application availability and scalability"
     }
   },
   {
     "EIP": {
-      "definition": "Elastic IP"
+      "definition": "Elastic IP - A static, public IPv4 address that can be associated with an Amazon Web Services (AWS) instance. An Elastic IP can be remapped to a different instance if necessary, allowing users to maintain a consistent IP address for their application even if the underlying instance changes."
     }
   },
   {
     "ENI": {
-      "definition": "Elastic Network Interface"
+      "definition": "Elastic Network Interface - A virtual network interface provided by Amazon Web Services (AWS), which can be attached to an EC2 instance to enable connectivity to a VPC or other AWS services. ENIs can be assigned multiple IP addresses and can be moved between instances."
     }
   },
   {
     "FaaS": {
-      "definition": "Function as-a-Service"
+      "definition": "Function as-a-Service - A cloud computing model where users can run code in response to events, without having to manage the underlying infrastructure. FaaS platforms, such as AWS Lambda, provide a serverless environment for running code, scaling automatically, and billing based on usage."
     }
   },
   {
     "HVM": {
-      "definition": "Hardware Virtual Machine"
+      "definition": "Hardware Virtual Machine - A type of virtual machine used in Amazon Web Services (AWS) that allows instances to run directly on the underlying hardware. HVM instances provide better performance and support a wider range of operating systems and virtualization technologies."
     }
   },
   {
     "S3 IA": {
-      "definition": "S3 Infrequent Access"
+      "definition": "S3 Infrequent Access - A storage class provided by Amazon Simple Storage Service (S3) for data that is accessed less frequently, but still requires fast access when needed. S3 IA is designed for data that is accessed less than once a month and provides lower storage costs than the standard S3 storage class."
     }
   },
   {
     "KMS": {
-      "definition": "Key Management Service"
+      "definition": "Key Management Service - A fully managed service provided by Amazon Web Services (AWS) for creating and managing encryption keys used to protect data stored in AWS services and on-premises applications. KMS integrates with other AWS services and can be used to create and manage customer-managed keys."
     }
   },
   {
     "Amazon SES": {
-      "definition": "Amazon Simple Email System"
+      "definition": "Amazon Simple Email System - A fully managed email sending and receiving service provided by Amazon Web Services (AWS), which allows users to send and receive email using their own email addresses or domain names. SES provides high email deliverability, built-in spam filtering, and support for DKIM and SPF email authentication."
     }
   },
   {
     "RRS": {
-      "definition": "Reduced Redundancy Storage"
+      "definition": "Reduced Redundancy Storage - A storage option provided by Amazon Simple Storage Service (S3) for non-critical, reproducible data that can be easily regenerated if lost. RRS provides lower storage costs than the standard S3 storage class, but with lower durability and availability."
     }
   },
   {
     "SQS": {
-      "definition": "Simple Queue Service"
+      "definition": "Simple Queue Service - A fully managed message queuing service provided by Amazon Web Services (AWS), which enables decoupling and scaling of microservices, distributed systems, and serverless applications. SQS allows messages to be stored in a queue, then processed asynchronously by one or more receivers."
     }
   },
   {
     "VPG": {
-      "definition": "Virtual Private Gateway"
+      "definition": "Virtual Private Gateway - A VPN gateway provided by Amazon Web Services (AWS), which allows users to establish secure connections between their on-premises network and their Amazon VPC. VPG can be used to create a hardware VPN connection, a software VPN connection, or both."
     }
   },
   {
     "HP CSA": {
-      "definition": "HP Cloud Service Automation"
+      "definition": "HP Cloud Service Automation - A cloud management platform provided by Hewlett-Packard (HP), which allows users to automate and manage cloud services across multiple cloud providers and IT environments. HP CSA provides self-service portals, service catalog management, and orchestration of cloud resources."
     }
   },
   {
     "WP": {
-      "definition": "WordPress"
+      "definition": "WordPress - A popular open-source content management system (CMS) used to create websites and blogs. WordPress allows users to create, edit, and publish content using a variety of themes and plugins, and can be hosted on a variety of platforms, including on-premises servers and cloud hosting services."
     }
   },
   {
     "CPC": {
-      "definition": "Cost Per Click"
+      "definition": "Cost Per Click - An advertising pricing model where advertisers pay a fee each time a user clicks on their ad. CPC is commonly used in pay-per-click (PPC) advertising campaigns on search engines, social media platforms, and other websites."
     }
   },
   {
     "SERP": {
-      "definition": "Search Engine Results Page"
+      "definition": "Search Engine Results Page - The page displayed by a search engine in response to a user's search query. A SERP typically includes a list of web pages relevant to the query, along with snippets of their content and links to visit each page."
     }
   },
   {
     "CPM": {
-      "definition": "Cost Per Thousand Impressions"
+      "definition": "Cost Per Thousand Impressions - An advertising pricing model where advertisers pay a fee for every thousand times their ad is displayed to a user. CPM is commonly used in display advertising campaigns on websites, mobile apps, and other digital media."
     }
   },
   {
     "CRO": {
-      "definition": "Conversion Rate Optimization"
+      "definition": "Conversion Rate Optimization - The process of improving the percentage of website visitors who take a desired action, such as making a purchase or filling out a form. CRO involves analyzing user behavior, optimizing website design and content, and testing different variations to improve the conversion rate."
     }
   },
   {
@@ -7881,17 +7881,17 @@
   },
   {
     "TTF": {
-      "definition": "TrueType Font"
+      "definition": "TrueType Font - A font technology developed by Apple and Microsoft, which uses vector graphics to render fonts and provide high-quality text rendering capabilities."
     }
   },
   {
     "HAR": {
-      "definition": "HTTP Archive"
+      "definition": "HTTP Archive - A file format used to store HTTP interactions between a web browser and a web server. HAR files can be used for troubleshooting, performance analysis, and other web development tasks."
     }
   },
   {
     "QUIC": {
-      "definition": "Quick UDP Internet Connections"
+      "definition": "Quick UDP Internet Connections - A network protocol developed by Google, which aims to improve the speed and reliability of internet connections by reducing latency and packet loss. QUIC is designed to be compatible with existing web protocols, such as HTTP and TLS."
     }
   }
 ]
