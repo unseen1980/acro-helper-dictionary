@@ -85,7 +85,7 @@ export default (logger = console) => {
 
   app.post("/api/chatgpt-istechcontent", express.json(), async (req, res) => {
     function reduceTextSize(str) {
-      return str.trim().split(/\s+/, 1000).join(" ");
+      return str.trim().replace(/\s\s+/g, " ").split(/\s+/, 1000).join(" ");
     }
     const text = reduceTextSize(req.body.text);
     try {
@@ -94,7 +94,7 @@ export default (logger = console) => {
       });
 
       const resp = await api.sendMessage(
-        `I am  going to paste some text, check if it is technology related and answer with a true or false, nothing else. Here is the text: ${text}`
+        `I am  going to give you some text and I want you to check if it is technology related. It is important your response to be a valid json object. Please respond with only the json object, I don't want any explanation or any other text in your response! The object should have a response property and a boolean value. Here is the text: ${text}`
       );
       console.log(
         "GPT thinks this is technology related content: ",
