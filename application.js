@@ -100,7 +100,9 @@ export default (logger = console) => {
         "GPT thinks this is technology related content: ",
         JSON.parse(jsonrepair(resp.text))
       );
-      res.status(200).json({ response: JSON.parse(jsonrepair(resp.text)) });
+      res
+        .status(200)
+        .json({ response: JSON.parse(jsonrepair(resp.text.response)) });
     } catch (error) {
       console.log(error);
       res.status(400).set("Content-Type", "text/plain").send("Bad Request");
