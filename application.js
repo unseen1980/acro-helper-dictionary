@@ -83,6 +83,30 @@ export default (logger = console) => {
     }
   });
 
+  app.post("/api/chatgpt-istechcontent", express.json(), async (req, res) => {
+    function reduceTextSize(str) {
+      return str.trim().split(/\s+/, 1000).join(" ");
+    }
+    const text = reduceTextSize(req.body.text);
+    try {
+      const api = new ChatGPTAPI({
+        apiKey: process.env.GPT,
+      });
+
+      const resp = await api.sendMessage(
+        `I am  going to paste some text, check if it is technology related and answer with a true or false, nothing else. Here is the text: ${text}`
+      );
+      console.log(
+        "GPT thinks this is technology related content: ",
+        JSON.parse(jsonrepair(resp.text))
+      );
+      res.status(200).json({ response: JSON.parse(jsonrepair(resp.text)) });
+    } catch (error) {
+      console.log(error);
+      res.status(400).set("Content-Type", "text/plain").send("Bad Request");
+    }
+  });
+
   app.use((error, req, res, next) => {
     // eslint-disable-line no-unused-vars
     const { message, code = 500 } = error;
