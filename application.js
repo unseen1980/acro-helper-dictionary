@@ -96,10 +96,7 @@ export default (logger = console) => {
       const resp = await api.sendMessage(
         `I am  going to give you some text and I want you to check if any of the words are technology related.  It is important your response to be a valid json object. Please respond with only the json object, I don't want any explanation or any other text in your response! The object should have a response property and a boolean value. Here is the text: ${text}`
       );
-      console.log(
-        "GPT thinks this is technology related content: ",
-        JSON.parse(jsonrepair(resp.text))
-      );
+      console.log("GPT thinks this is technology related content: ", resp.text);
       res.status(200).json({ ...JSON.parse(jsonrepair(resp.text)) });
     } catch (error) {
       console.log(error);
