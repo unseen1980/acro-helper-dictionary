@@ -64,7 +64,7 @@ export default (logger = console) => {
 
   app.post("/api/chatgpt", express.json(), async (req, res) => {
     function reduceTextSize(str) {
-      return str.trim().split(/\s+/, 1000).join(" ");
+      return str.trim().split(/\s+/, 2000).join(" ");
     }
     const text = reduceTextSize(req.body.text);
     try {
@@ -73,7 +73,7 @@ export default (logger = console) => {
       });
 
       const resp = await api.sendMessage(
-        `Find the acronyms or abbreviations or technical jargon in the following text and return me a javascript array which can be parsed with the function JSON.parse(). Each element of the array should be a javascript object with the acronym property, the definition property and a small description property. It is important your response to be a valid json object. Please respond with only the json object, I don't want any explanation or any other text in your response! Here is the text: ${text}`
+        `Find the acronyms or abbreviations or technical jargon or technical words or technical terms in the following text and return me a javascript array which can be parsed with the function JSON.parse(). Each element of the array should be a javascript object with the acronym property, the definition property and a small description property. It is important your response to be a valid json object. Please respond with only the json object, I don't want any explanation or any other text in your response! Here is the text: ${text}`
       );
       console.log("GPT response: ", JSON.parse(jsonrepair(resp.text)));
       res.status(200).json({ response: JSON.parse(jsonrepair(resp.text)) });
