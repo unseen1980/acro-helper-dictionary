@@ -64,7 +64,7 @@ export default (logger = console) => {
 
   app.post("/api/chatgpt", express.json(), async (req, res) => {
     function reduceTextSize(str) {
-      return str.trim().split(/\s+/, 2000).join(" ");
+      return str.trim().split(/\s+/, 1500).join(" ");
     }
     const text = reduceTextSize(req.body.text);
     try {

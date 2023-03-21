@@ -2830,11 +2830,6 @@
     }
   },
   {
-    "GPT": {
-      "definition": "The GUID Partition Table (GPT) is a standard for the layout of partition tables of a physical computer storage device, such as a hard disk drive or solid-state drive, using universally unique identifiers, which are also known as globally unique identifiers (GUIDs). Forming a part of the Unified Extensible Firmware Interface (UEFI) standard, it is nevertheless also used for some BIOS systems, because of the limitations of master boot record (MBR) partition tables, which use 32 bits for logical block addressing (LBA) of traditional 512-byte disk sectors."
-    }
-  },
-  {
     "GPU": {
       "definition": "A graphics processing unit (GPU) is a specialized electronic circuit designed to manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device. GPUs are used in embedded systems, mobile phones, personal computers, workstations, and game consoles."
     }
@@ -4320,16 +4315,6 @@
     }
   },
   {
-    "MS": {
-      "definition": "Microsoft Corporation is an American multinational technology corporation producing computer software, consumer electronics, personal computers, and related services. Headquartered at the Microsoft campus in Redmond, Washington, Microsoft's best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2019. It is one of the Big Five American information technology companies, alongside Alphabet (Google), Amazon, Apple, and Meta (Facebook)."
-    }
-  },
-  {
-    "MS": {
-      "definition": "A USB flash drive is a data storage device that includes flash memory with an integrated USB interface. It is typically removable, rewritable and much smaller than an optical disc. Most weigh less than 30 g (1 oz). Since first appearing on the market in late 2000, as with virtually all other computer memory devices, storage capacities have risen while prices have dropped. As of March 2016, flash drives with anywhere from 8 to 256 gigabytes (GB) were frequently sold, while 512 GB and 1 terabyte (TB) units were less frequent. As of 2018, 2 TB flash drives were the largest available in terms of storage capacity. Some allow up to 100,000 write/erase cycles, depending on the exact type of memory chip used, and are thought to physically last between 10 and 100 years under normal circumstances."
-    }
-  },
-  {
     "MTA": {
       "definition": "\nWithin the Internet email system, a message transfer agent (MTA), or mail transfer agent, or mail relay is software that transfers electronic mail messages from one computer to another using SMTP. The terms mail server, mail exchanger, and MX host are also used in some contexts."
     }
@@ -4477,11 +4462,6 @@
   {
     "NetBIOS": {
       "definition": "NetBIOS is an acronym for Network Basic Input/Output System. It provides services related to the session layer of the OSI model allowing applications on separate computers to communicate over a local area network. As strictly an API, NetBIOS is not a networking protocol. Older operating systems ran NetBIOS over IEEE 802.2 and IPX/SPX using the NetBIOS Frames (NBF) and NetBIOS over IPX/SPX (NBX) protocols, respectively. In modern networks, NetBIOS normally runs over TCP/IP via the NetBIOS over TCP/IP (NBT) protocol. This results in each computer in the network having both an IP address and a NetBIOS name corresponding to a host name. NetBIOS is also used for identifying system names in TCP/IP (Windows). Simply saying, it is a protocol that allows communication of files and printers through the Session Layer of the OSI Model in a LAN."
-    }
-  },
-  {
-    "NEXT": {
-      "definition": "In electronics, crosstalk is any phenomenon by which a signal transmitted on one circuit or channel of a transmission system creates an undesired effect in another circuit or channel. Crosstalk is usually caused by undesired capacitive, inductive, or conductive coupling from one circuit or channel to another."
     }
   },
   {
